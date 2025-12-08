@@ -1,0 +1,260 @@
+Absolutely — here is your clean, final, authoritative MarehMakom Sefaria API Cheatsheet, containing all 9 endpoints you are officially keeping.
+
+This is the definitive reference for your entire project.
+Clear. Minimal. Practical. Python-focused.
+
+⸻
+
+📘 MAREHMAKOM — FULL Sefaria API Cheatsheet (9 Endpoints)
+
+(Python-only, no Node, no JS Linker)
+
+⸻
+
+🔵 1. FIND EXPLICIT REFS
+
+POST /api/find-refs
+
+Purpose: Detect explicit citations in your OCR text.
+
+Example Input:
+
+{
+  "text": {
+    "title": "",
+    "body": "כמו שכתב הרמב\"ם בהלכות תשובה ב:א ..."
+  }
+}
+
+Output (simplified):
+
+[
+  {
+    "raw": "הלכות תשובה ב:א",
+    "ref": "Mishneh Torah, Repentance 2:1",
+    "startChar": 17,
+    "endChar": 32
+  }
+]
+
+Use in MM:
+✔ Extract clean refs from OCR Hebrew
+✔ Determine EXACT spans in the text
+✔ Primary tool for explicit citations
+
+⸻
+
+🔵 2. FIND IMPLICIT REFS
+
+POST /api/search-wrapper
+
+Purpose: When OCR didn’t capture an explicit citation but user quoted text.
+
+Example Input:
+
+{
+  "query": "שובה ישראל",
+  "type": "text",
+  "size": 5
+}
+
+Output:
+
+[
+  {
+    "ref": "Hosea 14:2",
+    "he": "שׁוּבָה יִשְׂרָאֵל",
+    "score": 92.5
+  }
+]
+
+Use in MM:
+✔ Match partial quotes
+✔ Solve fuzziness / handwritten citations
+✔ Detect implicit refs
+
+⸻
+
+🔵 3. GET TEXT FOR A REF
+
+GET /api/v3/texts/{ref}
+
+Purpose: Fetch pasuk/halacha text to verify matches & display in your UI.
+
+Example URL:
+/api/v3/texts/Mishneh%20Torah,%20Repentance%202:1
+
+Output:
+
+{
+  "he": "הַתְּשׁוּבָה...",
+  "en": "Repentance is...",
+  "refs": [...],
+  "context": {...}
+}
+
+Use in MM:
+✔ Show canonical text to user
+✔ Verify implicit ref accuracy
+✔ Save short text snippet with sheet
+
+⸻
+
+🔵 4. GET COMMENTARIES & CROSS-REFERENCES
+
+GET /api/links/{ref}
+
+Purpose: Show everything connected to that ref.
+
+Output:
+
+[
+  { "type": "Commentary", "textReference": "Rashi on Teshuvah 2:1" },
+  { "type": "Tosafot", "textReference": "Abarbanel on ..." }
+]
+
+Use in MM:
+✔ Build a “Related Sources” panel
+✔ Allow user to explore commentary on the ref
+
+⸻
+
+🔵 5. GET TOPICS FOR A REF
+
+GET /api/ref-topic-links/{ref}
+
+Purpose: Auto-tagging by Torah topics.
+
+Output:
+
+[
+  {"slug": "teshuvah"},
+  {"slug": "free-will"}
+]
+
+Use in MM:
+✔ Auto-tag each detected ref with relevant topics
+✔ Same tags power sheet-level filtering later
+
+⸻
+
+🔵 6. GET ALL TOPICS (Topic Browser)
+
+GET /api/topics
+
+Purpose: Big dictionary of ALL topics in Sefaria.
+
+Output:
+
+[
+  {"slug": "teshuvah", "en": "Repentance", "he": "תשובה"},
+  {"slug": "parasha-noach", "en": "Parashat Noach", "he": "פרשת נח"},
+  ...
+]
+
+Use in MM:
+✔ Build a complete “Topic Browser”
+✔ Support autocomplete (“Assign topics to sheet”)
+✔ Display human-friendly labels for slugs
+
+⸻
+
+🔵 7. GET LIBRARY TREE (FULL SEFARIA INDEX)
+
+GET /api/index
+
+Purpose: Full Sefaria table of contents.
+
+Output:
+
+[
+  {
+    "category": "Tanakh",
+    "contents": [
+      {"title": "Genesis", "heTitle": "בראשית", ...},
+      {"title": "Exodus", ...},
+      ...
+    ]
+  },
+  {
+    "category": "Halakhah",
+    "contents": [ ... ]
+  }
+]
+
+Use in MM:
+✔ Build sidebar navigation
+✔ Validate book names from OCR
+✔ Determine top-level categories (Shas, Halakhah, etc.)
+
+⸻
+
+🔵 8. GET RAW BOOK METADATA
+
+GET /api/v2/raw/index/{title}
+
+Purpose: Get structure of a specific book.
+
+Output:
+
+{
+  "schema": {
+    "depth": 3,
+    "sectionNames": ["Sefer", "Perek", "Halakha"]
+  }
+}
+
+Use in MM:
+✔ Understand how to address “Mishneh Torah → Hilchot Teshuvah → Perek 2 → Halakha 1”
+✔ Generate drill-down navigation
+✔ Validate refs properly
+
+⸻
+
+🔵 9. GET RELATED CONTENT
+
+GET /api/related/{ref}
+
+Purpose: Combined “rich content” for a ref.
+
+Output:
+
+{
+  "links": [...],
+  "topics": [...],
+  "sheets": [...],
+  "media": [...]
+}
+
+Use in MM:
+✔ Give users a deep-dive “Ref Information” page
+✔ Useful enhancement but not mandatory
+
+⸻
+
+⭐ SUMMARY TABLE (Quick View)
+
+Category	Endpoint	Purpose	Required?
+Explicit refs	/api/find-refs	Detect citations in OCR	✔ YES
+Implicit refs	/api/search-wrapper	Match partial quoted text	✔ YES
+Text	/api/v3/texts/{ref}	Fetch Torah text	✔ YES
+Navigation	/api/index	Library table of contents	✔ YES
+Commentaries	/api/links/{ref}	Rashi, Ramban, etc.	✔ Yes
+Topics (auto)	/api/ref-topic-links/{ref}	Auto-tagging	✔ Yes
+Topics (browser)	/api/topics	Full topic dictionary	✔ Yes (since you want it)
+Metadata	/api/v2/raw/index/{title}	Book structure	✔ Nice
+Related content	/api/related/{ref}	Media, sheets, links	✔ Nice
+
+Everything above is pure HTTP. No Node. No JS. Python-only.
+
+⸻
+
+If you want, next I can give you:
+
+→ The FINAL MarehMakom processing pipeline (start-to-finish)
+
+→ Or the database schema (tables + fields) optimized for all 9 APIs
+
+→ Or Python wrappers for each API (clean, reusable, copy/paste ready)
+
+Just tell me which direction you want.

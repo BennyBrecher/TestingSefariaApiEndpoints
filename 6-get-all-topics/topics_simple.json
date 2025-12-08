@@ -1,0 +1,5002 @@
+[
+  {
+    "slug": "rabbi-yochanan-b-napacha",
+    "en": "Rabbi Yochanan b. Napacha",
+    "he": "רבי יוחנן"
+  },
+  {
+    "slug": "rabbi-yehudah-b-ilai",
+    "en": "Rabbi Yehudah [b. Il'ai]",
+    "he": "רבי יהודה"
+  },
+  {
+    "slug": "rava",
+    "en": "Rava",
+    "he": "רבא"
+  },
+  {
+    "slug": "rav",
+    "en": "Rav",
+    "he": "רב"
+  },
+  {
+    "slug": "rabbi-yose-b-chalafta",
+    "en": "Rabbi Yose b. Chalafta",
+    "he": "רבי יוסי"
+  },
+  {
+    "slug": "rabbi-meir",
+    "en": "Rabbi Meir",
+    "he": "רבי מאיר"
+  },
+  {
+    "slug": "shimon-bar-yochai",
+    "en": "Rabbi Shimon bar Yochai",
+    "he": "רבי שמעון בר יוחאי"
+  },
+  {
+    "slug": "shmuel-(amora)",
+    "en": "Shmuel",
+    "he": "שמואל"
+  },
+  {
+    "slug": "abaye",
+    "en": "Abaye",
+    "he": "אביי"
+  },
+  {
+    "slug": "rabbi-eliezer-b-hyrcanus",
+    "en": "Rabbi Eliezer b. Hyrcanus",
+    "he": "רבי אליעזר"
+  },
+  {
+    "slug": "rabbi-akiva",
+    "en": "Rabbi Akiva",
+    "he": "רבי עקיבא"
+  },
+  {
+    "slug": "rabi",
+    "en": "Rabi",
+    "he": "רבי"
+  },
+  {
+    "slug": "rabbi-shimon-b-lakish",
+    "en": "Rabbi Shimon b. Lakish",
+    "he": "רבי שמעון בן לקיש"
+  },
+  {
+    "slug": "rav-yehudah-b-yechezkel",
+    "en": "Rav Yehudah [b. Yechezkel]",
+    "he": "רב יהודה"
+  },
+  {
+    "slug": "rav-nachman-b-yaakov",
+    "en": "Rav Nachman [b. Ya'akov]",
+    "he": "רב נחמן"
+  },
+  {
+    "slug": "jewish-people",
+    "en": "Jewish People",
+    "he": "עם ישראל"
+  },
+  {
+    "slug": "beit-shammai",
+    "en": "Beit Shammai",
+    "he": "בית שמאי"
+  },
+  {
+    "slug": "rav-zera",
+    "en": "Rabbi Zeira",
+    "he": "רבי זירא"
+  },
+  {
+    "slug": "rav-ashi",
+    "en": "Rav Ashi",
+    "he": "רב אשי"
+  },
+  {
+    "slug": "rav-pappa",
+    "en": "Rav Pappa",
+    "he": "רב פפא"
+  },
+  {
+    "slug": "moses",
+    "en": "Moses",
+    "he": "משה"
+  },
+  {
+    "slug": "rav-huna",
+    "en": "Rav Huna",
+    "he": "רב הונא"
+  },
+  {
+    "slug": "rav-chisda",
+    "en": "Rav Chisda",
+    "he": "רב חסדא"
+  },
+  {
+    "slug": "beit-hillel",
+    "en": "Beit Hillel",
+    "he": "בית הלל"
+  },
+  {
+    "slug": "rabbi-yehoshua-b-hananyah",
+    "en": "Rabbi Yehoshua [b. Hananyah]",
+    "he": "ר יהושע"
+  },
+  {
+    "slug": "rabbi-yishmael-b-elisha",
+    "en": "Rabbi Yishmael b. Elisha",
+    "he": "רבי ישמעאל"
+  },
+  {
+    "slug": "rabbah-b-nachmani",
+    "en": "Rabbah [b. Nachmani]",
+    "he": "רבה"
+  },
+  {
+    "slug": "israel",
+    "en": "Israel",
+    "he": "ישראל"
+  },
+  {
+    "slug": "rabbi-chiyya",
+    "en": "Rabbi Chiyya",
+    "he": "רבי חייא"
+  },
+  {
+    "slug": "the-tetragrammaton",
+    "en": "The Tetragrammaton",
+    "he": "שם הויה"
+  },
+  {
+    "slug": "ravina-(i)",
+    "en": "Ravina",
+    "he": "רבינא"
+  },
+  {
+    "slug": "rabbi-abahu",
+    "en": "Rabbi Abahu",
+    "he": "רַ' אַבָּהוּ"
+  },
+  {
+    "slug": "king-david",
+    "en": "King David",
+    "he": "דוד המלך"
+  },
+  {
+    "slug": "rabbi-yirmeyah",
+    "en": "Rabbi Yirmeyah",
+    "he": "רבי ירמיה"
+  },
+  {
+    "slug": "abraham",
+    "en": "Abraham",
+    "he": "אברהם"
+  },
+  {
+    "slug": "rabbi-yehoshua-b-levi",
+    "en": "Rabbi Yehoshua ben Levi",
+    "he": "רבי יהושע בן לוי"
+  },
+  {
+    "slug": "rav-sheshet",
+    "en": "Rav Sheshet",
+    "he": "רב ששת"
+  },
+  {
+    "slug": "ulla",
+    "en": "Ulla",
+    "he": "עולא"
+  },
+  {
+    "slug": "jacob",
+    "en": "Jacob",
+    "he": "יעקב"
+  },
+  {
+    "slug": "aaron",
+    "en": "Aaron",
+    "he": "אהרון"
+  },
+  {
+    "slug": "teshuvah",
+    "en": "Repentance",
+    "he": "תשובה"
+  },
+  {
+    "slug": "rabbi-oshaya",
+    "en": "Rabbi Oshaya",
+    "he": "רבי אושעיא"
+  },
+  {
+    "slug": "level",
+    "en": "Level",
+    "he": "בחינה"
+  },
+  {
+    "slug": "rabbi-yannai",
+    "en": "Rabbi Yannai",
+    "he": "רבי ינאי"
+  },
+  {
+    "slug": "rabbah-bar-bar-chanah",
+    "en": "Rabbah Bar Bar Chanah",
+    "he": "רבה בר בר חנה"
+  },
+  {
+    "slug": "malkhut1",
+    "en": "Malkhut",
+    "he": "מַלְכוּת"
+  },
+  {
+    "slug": "rabbi-natan-habavli",
+    "en": "Rabbi Natan [haBavli]",
+    "he": "רבי נתן"
+  },
+  {
+    "slug": "rabbi-yonah",
+    "en": "Rabbi Yonah",
+    "he": "רבי יונה"
+  },
+  {
+    "slug": "rabbi-tarfon",
+    "en": "Rabbi Tarfon",
+    "he": "רבי טרפון"
+  },
+  {
+    "slug": "joshua",
+    "en": "Joshua",
+    "he": "יהושע"
+  },
+  {
+    "slug": "king-solomon",
+    "en": "King Solomon",
+    "he": "שְׁלֹמֹה"
+  },
+  {
+    "slug": "kabbalah",
+    "en": "Kabbalah",
+    "he": "קבלה"
+  },
+  {
+    "slug": "joseph",
+    "en": "Joseph",
+    "he": "יוסף"
+  },
+  {
+    "slug": "prayer",
+    "en": "Prayer",
+    "he": "תפילה"
+  },
+  {
+    "slug": "judah",
+    "en": "Judah",
+    "he": "יהודה"
+  },
+  {
+    "slug": "rabbi-yonatan",
+    "en": "Rabbi Yonatan",
+    "he": "רבי יונתן"
+  },
+  {
+    "slug": "rabbi-elazar-b-azaryah",
+    "en": "Rabbi Elazar b. Azaryah",
+    "he": "רבי אלעזר בן עזריה"
+  },
+  {
+    "slug": "torah",
+    "en": "Torah",
+    "he": "תורה"
+  },
+  {
+    "slug": "elijah",
+    "en": "Elijah",
+    "he": "אליהו"
+  },
+  {
+    "slug": "rabbi-elazar-b-shimon",
+    "en": "Rabbi Elazar b. Shimon",
+    "he": "רבי אלעזר בן שמעון"
+  },
+  {
+    "slug": "chanukkah",
+    "en": "Chanukkah",
+    "he": "חנוכה"
+  },
+  {
+    "slug": "rav-dimi",
+    "en": "Rav Dimi",
+    "he": "רב דימי"
+  },
+  {
+    "slug": "learning",
+    "en": "Learning",
+    "he": "לימוד"
+  },
+  {
+    "slug": "nukba",
+    "en": "Nukba",
+    "he": "נֻקְבָּא"
+  },
+  {
+    "slug": "talmud",
+    "en": "Talmud",
+    "he": "תלמוד"
+  },
+  {
+    "slug": "creation",
+    "en": "Creation",
+    "he": "בריאה"
+  },
+  {
+    "slug": "zeer-anpin1",
+    "en": "Ze'er Anpin",
+    "he": "ז''א"
+  },
+  {
+    "slug": "king-saul",
+    "en": "King Saul",
+    "he": "המלך שאול"
+  },
+  {
+    "slug": "death",
+    "en": "Death",
+    "he": "מוות"
+  },
+  {
+    "slug": "bar-kappara",
+    "en": "Bar Kappara",
+    "he": "בר קפרא"
+  },
+  {
+    "slug": "isaac",
+    "en": "Isaac",
+    "he": "יצחק"
+  },
+  {
+    "slug": "esau",
+    "en": "Esau",
+    "he": "עשיו"
+  },
+  {
+    "slug": "reuben",
+    "en": "Reuben",
+    "he": "ראובן"
+  },
+  {
+    "slug": "abba-shaul",
+    "en": "Abba Shaul",
+    "he": "אבא שאול"
+  },
+  {
+    "slug": "noah",
+    "en": "Noah",
+    "he": "נח"
+  },
+  {
+    "slug": "women",
+    "en": "Women",
+    "he": "נשים"
+  },
+  {
+    "slug": "shabbat",
+    "en": "Shabbat",
+    "he": "שבת"
+  },
+  {
+    "slug": "rabban-yochanan-b-zakkai",
+    "en": "Rabban Yochanan ben Zakkai",
+    "he": "רבן יוחנן בן זכאי"
+  },
+  {
+    "slug": "adam",
+    "en": "Adam",
+    "he": "אדם הראשון"
+  },
+  {
+    "slug": "simeon",
+    "en": "Simeon",
+    "he": "שמעון"
+  },
+  {
+    "slug": "shimon-b-azzai",
+    "en": "[Shimon] b. Azzai",
+    "he": "בן עזאי"
+  },
+  {
+    "slug": "rabbi-yaakov-b-qorshai",
+    "en": "Rabbi Ya'akov b. Qorshai",
+    "he": "ר יעקב בן קרשי"
+  },
+  {
+    "slug": "partzuf",
+    "en": "Partzuf",
+    "he": "פַּרְצוּף"
+  },
+  {
+    "slug": "rav-assi",
+    "en": "Rav Assi",
+    "he": "רב אסי"
+  },
+  {
+    "slug": "bina3",
+    "en": "Bina",
+    "he": "בֵּינָהּ"
+  },
+  {
+    "slug": "book-of-job",
+    "en": "Book of Job",
+    "he": "ספר איוב"
+  },
+  {
+    "slug": "haggadah",
+    "en": "Haggadah",
+    "he": "הגדה"
+  },
+  {
+    "slug": "esther",
+    "en": "Esther",
+    "he": "אסתר"
+  },
+  {
+    "slug": "parashat-bereshit",
+    "en": "Parashat Bereshit",
+    "he": "פרשת בראשית"
+  },
+  {
+    "slug": "mitzvot",
+    "en": "Commandments",
+    "he": "מצוות"
+  },
+  {
+    "slug": "partition1",
+    "en": "Partition",
+    "he": "מָסָךְ"
+  },
+  {
+    "slug": "hokhma1",
+    "en": "Ḥokhma",
+    "he": "חָכְמָה"
+  },
+  {
+    "slug": "rambam",
+    "en": "Moses ben Maimon",
+    "he": "רמב\"ם"
+  },
+  {
+    "slug": "tsaddik",
+    "en": "Tsaddik",
+    "he": "צדיק"
+  },
+  {
+    "slug": "pharaoh",
+    "en": "Pharaoh",
+    "he": "פרעה"
+  },
+  {
+    "slug": "hokhma",
+    "en": "Ḥokhma",
+    "he": "חָכְמָה"
+  },
+  {
+    "slug": "bina2",
+    "en": "Bina",
+    "he": "בִּינָה"
+  },
+  {
+    "slug": "life",
+    "en": "Life",
+    "he": "חיים"
+  },
+  {
+    "slug": "angels",
+    "en": "Angels",
+    "he": "מלאכים"
+  },
+  {
+    "slug": "punishment",
+    "en": "Punishment",
+    "he": "ענישה"
+  },
+  {
+    "slug": "kings",
+    "en": "Kings",
+    "he": "מלך"
+  },
+  {
+    "slug": "the-lord-and-the-jewish-people",
+    "en": "God and the Jewish People",
+    "he": "אלקים וישראל"
+  },
+  {
+    "slug": "sefira1",
+    "en": "Sefira",
+    "he": "סְפִירָה"
+  },
+  {
+    "slug": "idolatry",
+    "en": "Idolatry",
+    "he": "עבודה זרה"
+  },
+  {
+    "slug": "hezekiah",
+    "en": "Hezekiah",
+    "he": "חזקיה"
+  },
+  {
+    "slug": "sumkhos",
+    "en": "Sumkhos",
+    "he": "סומכוס"
+  },
+  {
+    "slug": "prophecy",
+    "en": "Prophecy",
+    "he": "נבואה"
+  },
+  {
+    "slug": "shammai",
+    "en": "Shammai",
+    "he": "שמאי"
+  },
+  {
+    "slug": "tzedakah",
+    "en": "Tzedakah",
+    "he": "צדקה"
+  },
+  {
+    "slug": "sins",
+    "en": "Sins",
+    "he": "חטא"
+  },
+  {
+    "slug": "brains2",
+    "en": "Brains",
+    "he": "מוֹחִין"
+  },
+  {
+    "slug": "actuality",
+    "en": "Reality",
+    "he": "מציאות"
+  },
+  {
+    "slug": "parashat-shemot",
+    "en": "Parashat Shemot",
+    "he": "פרשת שמות"
+  },
+  {
+    "slug": "mordekhai",
+    "en": "Mordekhai",
+    "he": "מרדכי"
+  },
+  {
+    "slug": "rav-chiya-b-ashi",
+    "en": "Rav Chiya b. Ashi",
+    "he": "רב חייא בר אשי"
+  },
+  {
+    "slug": "rabbi-yishmael-b-yose",
+    "en": "Rabbi Yishmael b. Yose",
+    "he": "ר ישמעאל בר יוסי"
+  },
+  {
+    "slug": "ezra",
+    "en": "Ezra",
+    "he": "עזרא"
+  },
+  {
+    "slug": "benjamin",
+    "en": "Benjamin",
+    "he": "בנימין"
+  },
+  {
+    "slug": "repayment1",
+    "en": "Repayment",
+    "he": "שָׂכָר"
+  },
+  {
+    "slug": "passover",
+    "en": "Passover",
+    "he": "פסח"
+  },
+  {
+    "slug": "haman",
+    "en": "Haman",
+    "he": "המן"
+  },
+  {
+    "slug": "balaam",
+    "en": "Balaam",
+    "he": "בלעם"
+  },
+  {
+    "slug": "enclothe",
+    "en": "Enclothe",
+    "he": "התלבשות"
+  },
+  {
+    "slug": "tiferet1",
+    "en": "Tiferet",
+    "he": "תִפְאֶרֶת"
+  },
+  {
+    "slug": "moab",
+    "en": "Moab",
+    "he": "מואב"
+  },
+  {
+    "slug": "evildoers",
+    "en": "Evildoers",
+    "he": "רשע"
+  },
+  {
+    "slug": "jeremiah",
+    "en": "Jeremiah",
+    "he": "ירמיהו"
+  },
+  {
+    "slug": "talmid-chacham",
+    "en": "Talmid Chacham",
+    "he": "תלמיד חכם"
+  },
+  {
+    "slug": "emancipation1",
+    "en": "Emancipation",
+    "he": "גאולה"
+  },
+  {
+    "slug": "sarah",
+    "en": "Sarah",
+    "he": "שרה"
+  },
+  {
+    "slug": "nebuchadnezzar",
+    "en": "Nebuchadnezzar",
+    "he": "נבוכדנאצר"
+  },
+  {
+    "slug": "the-performance-of-a-commandment",
+    "en": "The Performance of a Commandment",
+    "he": "מעשה מצווה"
+  },
+  {
+    "slug": "circumcision",
+    "en": "Circumcision",
+    "he": "ברית מילה"
+  },
+  {
+    "slug": "sacrifices",
+    "en": "Sacrifices",
+    "he": "קרבן"
+  },
+  {
+    "slug": "pinchas",
+    "en": "Pinchas",
+    "he": "פינחס"
+  },
+  {
+    "slug": "sefirot",
+    "en": "Sefirot",
+    "he": "ספירות"
+  },
+  {
+    "slug": "miriam",
+    "en": "Miriam",
+    "he": "מרים"
+  },
+  {
+    "slug": "atzilut",
+    "en": "Atzilut",
+    "he": "אֲצִילוּת"
+  },
+  {
+    "slug": "the-ten-commandments",
+    "en": "The Ten Commandments",
+    "he": "עשרת הדיברות"
+  },
+  {
+    "slug": "marriage",
+    "en": "Marriage",
+    "he": "נישואים"
+  },
+  {
+    "slug": "humanity",
+    "en": "Humanity",
+    "he": "אנושיות"
+  },
+  {
+    "slug": "avodat-hashem",
+    "en": "Service of God",
+    "he": "עבודת ה'"
+  },
+  {
+    "slug": "ahab",
+    "en": "Ahab",
+    "he": "אחאב"
+  },
+  {
+    "slug": "social-justice",
+    "en": "Social Justice",
+    "he": "צדק חברתי"
+  },
+  {
+    "slug": "daniel",
+    "en": "Daniel",
+    "he": "דניאל"
+  },
+  {
+    "slug": "god",
+    "en": "God",
+    "he": "אלוהים"
+  },
+  {
+    "slug": "elisha",
+    "en": "Elisha",
+    "he": "אלישע"
+  },
+  {
+    "slug": "ezekiel",
+    "en": "Ezekiel",
+    "he": "יחזקאל"
+  },
+  {
+    "slug": "yetzer-hara",
+    "en": "Evil Inclination",
+    "he": "יצר הרע"
+  },
+  {
+    "slug": "eating",
+    "en": "Eating",
+    "he": "אכילה"
+  },
+  {
+    "slug": "the-jewish-people-and-the-nations",
+    "en": "The Jewish People and the Nations",
+    "he": "אומות העולם וישראל"
+  },
+  {
+    "slug": "wisdom",
+    "en": "Wisdom",
+    "he": "חכמה"
+  },
+  {
+    "slug": "blessings",
+    "en": "Blessings",
+    "he": "ברכה"
+  },
+  {
+    "slug": "elazar",
+    "en": "Elazar",
+    "he": "אלעזר"
+  },
+  {
+    "slug": "rabbi-dosa",
+    "en": "Rabbi Dosa",
+    "he": "רבי דוסא"
+  },
+  {
+    "slug": "exile",
+    "en": "Exile",
+    "he": "גלות"
+  },
+  {
+    "slug": "korach",
+    "en": "Korach",
+    "he": "קרח"
+  },
+  {
+    "slug": "ishmael",
+    "en": "Ishmael",
+    "he": "ישמעאל"
+  },
+  {
+    "slug": "parashat-chayei-sarah",
+    "en": "Parashat Chayyei Sarah",
+    "he": "פרשת חיי שרה"
+  },
+  {
+    "slug": "ovyut",
+    "en": "Ovyut",
+    "he": "עׇבְיוּת"
+  },
+  {
+    "slug": "keter1",
+    "en": "Keter",
+    "he": "כֶּתֶר"
+  },
+  {
+    "slug": "samson",
+    "en": "Samson",
+    "he": "שמשון"
+  },
+  {
+    "slug": "judgements1",
+    "en": "Judgements",
+    "he": "פסק דין"
+  },
+  {
+    "slug": "priesthood",
+    "en": "Priesthood",
+    "he": "כהונה"
+  },
+  {
+    "slug": "names",
+    "en": "Names",
+    "he": "שמות"
+  },
+  {
+    "slug": "mar-ukva",
+    "en": "Mar Ukva",
+    "he": "מר עוקבא"
+  },
+  {
+    "slug": "parashat-yitro",
+    "en": "Parashat Yitro",
+    "he": "פרשת יתרו"
+  },
+  {
+    "slug": "shekhinah",
+    "en": "Shekhinah",
+    "he": "שכינה"
+  },
+  {
+    "slug": "sukkah",
+    "en": "Sukkah",
+    "he": "סוכה"
+  },
+  {
+    "slug": "statement",
+    "en": "Statement",
+    "he": "דיבור"
+  },
+  {
+    "slug": "the-exodus-from-egypt",
+    "en": "The Exodus from Egypt",
+    "he": "יציאת מצרים"
+  },
+  {
+    "slug": "laws-of-animal-sacrifices",
+    "en": "Laws of Animal Sacrifices",
+    "he": "הלכות קרבנות מן החי"
+  },
+  {
+    "slug": "yesod1",
+    "en": "Yesod",
+    "he": "יְסוֹד"
+  },
+  {
+    "slug": "animals",
+    "en": "Animals",
+    "he": "בעלי חיים"
+  },
+  {
+    "slug": "songs",
+    "en": "Songs",
+    "he": "שירים"
+  },
+  {
+    "slug": "beit-hamikdash",
+    "en": "Temple",
+    "he": "בית המקדש"
+  },
+  {
+    "slug": "livelihood",
+    "en": "Livelihood",
+    "he": "פרנסה"
+  },
+  {
+    "slug": "isaiah",
+    "en": "Isaiah",
+    "he": "ישעיהו"
+  },
+  {
+    "slug": "light-of-giving",
+    "en": "Light of giving",
+    "he": "אוֹר חֲסָדִים"
+  },
+  {
+    "slug": "rosh-hashanah",
+    "en": "Rosh Hashanah",
+    "he": "ראש השנה"
+  },
+  {
+    "slug": "neshama",
+    "en": "Soul",
+    "he": "נשמה"
+  },
+  {
+    "slug": "head1",
+    "en": "Head",
+    "he": "רֹאשׁ"
+  },
+  {
+    "slug": "rabbi-helbo",
+    "en": "Rabbi Helbo",
+    "he": "רבי חלבו"
+  },
+  {
+    "slug": "rachel",
+    "en": "Rachel",
+    "he": "רחל"
+  },
+  {
+    "slug": "parashat-vayishlach",
+    "en": "Parashat Vayishlach",
+    "he": "פרשת וישלח"
+  },
+  {
+    "slug": "ruth",
+    "en": "Ruth",
+    "he": "רות"
+  },
+  {
+    "slug": "absalom",
+    "en": "Absalom",
+    "he": "אבשלום"
+  },
+  {
+    "slug": "man-and-his-fellow",
+    "en": "Man and His Fellow",
+    "he": "אדם וחברו"
+  },
+  {
+    "slug": "parashat-vayeshev",
+    "en": "Parashat Vayeshev",
+    "he": "פרשת וישב"
+  },
+  {
+    "slug": "yoav",
+    "en": "Yoav",
+    "he": "יואב"
+  },
+  {
+    "slug": "holiness",
+    "en": "Holiness",
+    "he": "קדושה"
+  },
+  {
+    "slug": "olam-haba",
+    "en": "The World to Come",
+    "he": "עולם הבא"
+  },
+  {
+    "slug": "edom",
+    "en": "Edom",
+    "he": "אדום"
+  },
+  {
+    "slug": "yom-kippur",
+    "en": "Yom Kippur",
+    "he": "יום כיפור"
+  },
+  {
+    "slug": "zedekiah",
+    "en": "Zedekiah",
+    "he": "צדקיהו"
+  },
+  {
+    "slug": "the-future-to-come",
+    "en": "The Future to Come",
+    "he": "לעתיד לבא"
+  },
+  {
+    "slug": "purim",
+    "en": "Purim",
+    "he": "פורים"
+  },
+  {
+    "slug": "ahasuerus",
+    "en": "Ahasuerus",
+    "he": "אחשוורוש"
+  },
+  {
+    "slug": "nations-of-the-world",
+    "en": "Nations of the World",
+    "he": "אומות העולם"
+  },
+  {
+    "slug": "parashat-pinchas",
+    "en": "Parashat Pinchas",
+    "he": "פרשת פינחס"
+  },
+  {
+    "slug": "parashat-korach",
+    "en": "Parashat Korach",
+    "he": "פרשת קרח"
+  },
+  {
+    "slug": "joy",
+    "en": "Joy",
+    "he": "שמחה"
+  },
+  {
+    "slug": "man-and-wife",
+    "en": "Man and Wife",
+    "he": "איש ואשה"
+  },
+  {
+    "slug": "egypt",
+    "en": "Egypt",
+    "he": "מצרים"
+  },
+  {
+    "slug": "rebuke",
+    "en": "Rebuke",
+    "he": "תוכחה"
+  },
+  {
+    "slug": "rav-amram",
+    "en": "Rav Amram",
+    "he": "רב עמרם"
+  },
+  {
+    "slug": "arikh-anpin1",
+    "en": "Arikh Anpin",
+    "he": "א''א"
+  },
+  {
+    "slug": "yirat-shamayim",
+    "en": "Fear of Heaven",
+    "he": "יראת שמיים"
+  },
+  {
+    "slug": "parashat-ki-teitzei",
+    "en": "Parashat Ki Teitzei",
+    "he": "פרשת כי תצא"
+  },
+  {
+    "slug": "generation-of-the-desert",
+    "en": "Generation of the Desert",
+    "he": "דור המדבר"
+  },
+  {
+    "slug": "jerusalem",
+    "en": "Jerusalem",
+    "he": "ירושלים"
+  },
+  {
+    "slug": "fathers-and-sons",
+    "en": "Fathers and Sons",
+    "he": "אב ובן"
+  },
+  {
+    "slug": "mashiach",
+    "en": "Mashiach",
+    "he": "משיח"
+  },
+  {
+    "slug": "shavuot",
+    "en": "Shavuot",
+    "he": "שבועות"
+  },
+  {
+    "slug": "hannah",
+    "en": "Hannah",
+    "he": "חנה"
+  },
+  {
+    "slug": "shema",
+    "en": "Shema",
+    "he": "קריאת שמע"
+  },
+  {
+    "slug": "miracles",
+    "en": "Miracles",
+    "he": "נס"
+  },
+  {
+    "slug": "parashat-kedoshim",
+    "en": "Parashat Kedoshim",
+    "he": "פרשת קדושים"
+  },
+  {
+    "slug": "wine",
+    "en": "Wine",
+    "he": "יין"
+  },
+  {
+    "slug": "fasting",
+    "en": "Fasting",
+    "he": "תענית"
+  },
+  {
+    "slug": "sukkot",
+    "en": "Sukkot",
+    "he": "סוכות"
+  },
+  {
+    "slug": "wars",
+    "en": "Wars",
+    "he": "מלחמה"
+  },
+  {
+    "slug": "yitro",
+    "en": "Yitro",
+    "he": "יתרו"
+  },
+  {
+    "slug": "parashat-chukat",
+    "en": "Parashat Chukat",
+    "he": "פרשת חקת"
+  },
+  {
+    "slug": "caleb",
+    "en": "Caleb",
+    "he": "כלב בן יפונה"
+  },
+  {
+    "slug": "leadership",
+    "en": "Leadership",
+    "he": "מנהיגות"
+  },
+  {
+    "slug": "rabbi-pinchas",
+    "en": "Rabbi Pinchas",
+    "he": "רבי פנחס"
+  },
+  {
+    "slug": "parashat-ki-tavo",
+    "en": "Parashat Ki Tavo",
+    "he": "פרשת כי תבוא"
+  },
+  {
+    "slug": "jacob-and-esau",
+    "en": "Jacob and Esau",
+    "he": "יעקב ועשו"
+  },
+  {
+    "slug": "tefillin",
+    "en": "Tefillin",
+    "he": "תפילין"
+  },
+  {
+    "slug": "anger",
+    "en": "Anger",
+    "he": "כעס"
+  },
+  {
+    "slug": "zeer-anpin",
+    "en": "Ze'er Anpin",
+    "he": "זְעֵיר אַנְפִּין"
+  },
+  {
+    "slug": "oaths",
+    "en": "Oaths",
+    "he": "שבועה"
+  },
+  {
+    "slug": "nadav-and-avihu",
+    "en": "Nadav and Avihu",
+    "he": "נדב ואביהוא"
+  },
+  {
+    "slug": "vows",
+    "en": "Vows",
+    "he": "נדרים"
+  },
+  {
+    "slug": "six-extremities",
+    "en": "Six Extremities",
+    "he": "ו' קְצָווֹת"
+  },
+  {
+    "slug": "amalek",
+    "en": "Amalek",
+    "he": "עמלק"
+  },
+  {
+    "slug": "witnesses",
+    "en": "Witnesses",
+    "he": "עדים"
+  },
+  {
+    "slug": "god-and-man",
+    "en": "God and Being",
+    "he": "אלקים ואדם"
+  },
+  {
+    "slug": "education",
+    "en": "Education",
+    "he": "חינוך"
+  },
+  {
+    "slug": "parashat-vayakhel",
+    "en": "Parashat Vayakhel",
+    "he": "פרשת ויקהל"
+  },
+  {
+    "slug": "hashgacha",
+    "en": "Hashgacha",
+    "he": "השגחה אלוקית"
+  },
+  {
+    "slug": "hillel",
+    "en": "Hillel",
+    "he": "הִלֵּל"
+  },
+  {
+    "slug": "splitting-of-the-red-sea",
+    "en": "Splitting of the Red Sea",
+    "he": "קריעת ים סוף"
+  },
+  {
+    "slug": "abba-and-imma-ilain",
+    "en": "Abba and Imma Ila’in",
+    "he": "אַבָּא וְאִמָּא עִלָּאִין"
+  },
+  {
+    "slug": "mishkan",
+    "en": "Mishkan",
+    "he": "משכן"
+  },
+  {
+    "slug": "tzaraat",
+    "en": "Tzara’at",
+    "he": "צרעת"
+  },
+  {
+    "slug": "leah",
+    "en": "Leah",
+    "he": "לאה"
+  },
+  {
+    "slug": "time",
+    "en": "Time",
+    "he": "זמן"
+  },
+  {
+    "slug": "purpose-of-life",
+    "en": "Purpose of Life",
+    "he": "תפקיד החיים"
+  },
+  {
+    "slug": "prophets",
+    "en": "Prophets",
+    "he": "נביאים"
+  },
+  {
+    "slug": "trade",
+    "en": "Trade",
+    "he": "מסחר"
+  },
+  {
+    "slug": "yom-tov",
+    "en": "Yom Tov",
+    "he": "יום טוב"
+  },
+  {
+    "slug": "head2",
+    "en": "Head",
+    "he": "ראש"
+  },
+  {
+    "slug": "shimon-b-shetach",
+    "en": "Shimon b. Shetach",
+    "he": "שמעון בן שטח"
+  },
+  {
+    "slug": "faith",
+    "en": "Faith",
+    "he": "אמונה"
+  },
+  {
+    "slug": "rabbi-shimon-b-rabbi",
+    "en": "Rabbi Shimon b. Rabbi",
+    "he": "רבי שמעון בן רבי"
+  },
+  {
+    "slug": "poverty",
+    "en": "Poverty",
+    "he": "עוני"
+  },
+  {
+    "slug": "mans-actions",
+    "en": "Man's Actions",
+    "he": "מעשי האדם"
+  },
+  {
+    "slug": "merit",
+    "en": "Merit",
+    "he": "זכות"
+  },
+  {
+    "slug": "tanakh",
+    "en": "Tanakh",
+    "he": "תנ\"ך"
+  },
+  {
+    "slug": "shimon-b-zoma",
+    "en": "[Shimon] b. Zoma",
+    "he": "בן זומא"
+  },
+  {
+    "slug": "josiah",
+    "en": "Josiah",
+    "he": "יאשיהו"
+  },
+  {
+    "slug": "eliezer",
+    "en": "Eliezer",
+    "he": "אליעזר"
+  },
+  {
+    "slug": "lashon-hara",
+    "en": "Evil Speech",
+    "he": "לשון הרע"
+  },
+  {
+    "slug": "nature-of-man-and-his-character-traits",
+    "en": "Nature of Man and his Character Traits",
+    "he": "טבע האדם ומדותיו"
+  },
+  {
+    "slug": "parashat-tzav",
+    "en": "Parashat Tzav",
+    "he": "פרשת צו"
+  },
+  {
+    "slug": "tzitzit",
+    "en": "Tzitzit",
+    "he": "ציצית"
+  },
+  {
+    "slug": "peace",
+    "en": "Peace",
+    "he": "שלום"
+  },
+  {
+    "slug": "medicine",
+    "en": "Medicine",
+    "he": "תרופה"
+  },
+  {
+    "slug": "body2",
+    "en": "Body",
+    "he": "גּוּף"
+  },
+  {
+    "slug": "thoughts",
+    "en": "Thoughts",
+    "he": "מחשבה"
+  },
+  {
+    "slug": "financial-ramifications-of-marriage",
+    "en": "Financial Ramifications of Marriage",
+    "he": "השלכות ממוניות של חיי הנישואין"
+  },
+  {
+    "slug": "humility",
+    "en": "Humility",
+    "he": "ענוה"
+  },
+  {
+    "slug": "dan",
+    "en": "Dan",
+    "he": "דן"
+  },
+  {
+    "slug": "golden-calf",
+    "en": "Golden Calf",
+    "he": "עגל הזהב"
+  },
+  {
+    "slug": "shechem",
+    "en": "Shechem",
+    "he": "שכם"
+  },
+  {
+    "slug": "water",
+    "en": "Water",
+    "he": "מים"
+  },
+  {
+    "slug": "judges",
+    "en": "Judges",
+    "he": "דיין"
+  },
+  {
+    "slug": "love",
+    "en": "Love",
+    "he": "אהבה"
+  },
+  {
+    "slug": "drinking",
+    "en": "Drinking",
+    "he": "שתיה"
+  },
+  {
+    "slug": "shemitah",
+    "en": "Shemittah",
+    "he": "שמיטה"
+  },
+  {
+    "slug": "the-patriarchs",
+    "en": "The Patriarchs",
+    "he": "אבות"
+  },
+  {
+    "slug": "canaan",
+    "en": "Canaan",
+    "he": "כנען"
+  },
+  {
+    "slug": "tyre",
+    "en": "Tyre",
+    "he": "צור"
+  },
+  {
+    "slug": "fusion-through-collision",
+    "en": "Fusion through Collision",
+    "he": "זִיוּוּג דְּהַכָּאָה"
+  },
+  {
+    "slug": "non-jews",
+    "en": "Non Jews",
+    "he": "גוים"
+  },
+  {
+    "slug": "mishnah",
+    "en": "Mishnah",
+    "he": "משנה"
+  },
+  {
+    "slug": "eli",
+    "en": "Eli",
+    "he": "עלי"
+  },
+  {
+    "slug": "birth",
+    "en": "Birth",
+    "he": "לידה"
+  },
+  {
+    "slug": "blessings-(halakhah)",
+    "en": "Blessings",
+    "he": "ברכות"
+  },
+  {
+    "slug": "the-spies",
+    "en": "The Spies",
+    "he": "המרגלים"
+  },
+  {
+    "slug": "kindness",
+    "en": "Kindness",
+    "he": "גמילות חסדים"
+  },
+  {
+    "slug": "atonement",
+    "en": "Atonement",
+    "he": "כפרה"
+  },
+  {
+    "slug": "laws-of-prayer",
+    "en": "Laws of Prayer",
+    "he": "הלכות תפילה"
+  },
+  {
+    "slug": "silence",
+    "en": "Silence",
+    "he": "שתיקה"
+  },
+  {
+    "slug": "laws-of-judges-and-courts",
+    "en": "Laws of Judges and Courts",
+    "he": "הלכות בתי הדין והדיינים"
+  },
+  {
+    "slug": "lot",
+    "en": "Lot",
+    "he": "לוט"
+  },
+  {
+    "slug": "sennacherib",
+    "en": "Sennacherib",
+    "he": "סנחריב"
+  },
+  {
+    "slug": "rain",
+    "en": "Rain",
+    "he": "גשם"
+  },
+  {
+    "slug": "conquest-and-division",
+    "en": "Conquest and Division",
+    "he": "כיבוש וחלוקה"
+  },
+  {
+    "slug": "the-effects-of-a-commandment",
+    "en": "The Effects of a Commandment",
+    "he": "פעולת המצווה"
+  },
+  {
+    "slug": "diaspora",
+    "en": "Diaspora",
+    "he": "תפוצות"
+  },
+  {
+    "slug": "burial",
+    "en": "Burial",
+    "he": "קבורה"
+  },
+  {
+    "slug": "jonah",
+    "en": "Jonah",
+    "he": "יונה הנביא"
+  },
+  {
+    "slug": "minor-boys",
+    "en": "Minors",
+    "he": "קטן"
+  },
+  {
+    "slug": "light",
+    "en": "Light",
+    "he": "אור"
+  },
+  {
+    "slug": "achitofel",
+    "en": "Achitofel",
+    "he": "אחיתופל"
+  },
+  {
+    "slug": "boaz",
+    "en": "Boaz",
+    "he": "בועז"
+  },
+  {
+    "slug": "nazir",
+    "en": "Nazir",
+    "he": "נזיר"
+  },
+  {
+    "slug": "yisrael-sabba-and-tevuna1",
+    "en": "Yisrael Sabba and Tevuna",
+    "he": "ישסו''ת"
+  },
+  {
+    "slug": "rebecca",
+    "en": "Rebecca",
+    "he": "רבקה"
+  },
+  {
+    "slug": "nature",
+    "en": "Nature",
+    "he": "טבע"
+  },
+  {
+    "slug": "returning-light",
+    "en": "Returning Light",
+    "he": "אוֹר חוֹזֵר"
+  },
+  {
+    "slug": "torah-scrolls",
+    "en": "Torah Scroll",
+    "he": "ספר תורה"
+  },
+  {
+    "slug": "heavens",
+    "en": "Heavens",
+    "he": "שמים"
+  },
+  {
+    "slug": "procedures-for-judges-and-conduct-towards-them",
+    "en": "Procedures for Judges and Conduct towards Them",
+    "he": "הנחיות לדיינים והיחס אליהם"
+  },
+  {
+    "slug": "free-will",
+    "en": "Free Will",
+    "he": "בחירה חופשית"
+  },
+  {
+    "slug": "ilfa",
+    "en": "Ilfa",
+    "he": "אילפא"
+  },
+  {
+    "slug": "rabbinic-ordinances",
+    "en": "Rabbinic Ordinances",
+    "he": "תקנות"
+  },
+  {
+    "slug": "israel-in-egypt",
+    "en": "Israel in Egypt",
+    "he": "ישראל במצרים"
+  },
+  {
+    "slug": "ephraim",
+    "en": "Ephraim",
+    "he": "אפרים"
+  },
+  {
+    "slug": "kashrut",
+    "en": "Kashrut",
+    "he": "כשרות"
+  },
+  {
+    "slug": "sorcery",
+    "en": "Sorcery",
+    "he": "כישוף"
+  },
+  {
+    "slug": "wealth",
+    "en": "Wealth",
+    "he": "עושר"
+  },
+  {
+    "slug": "hesed",
+    "en": "Ḥesed",
+    "he": "חֶסֶד"
+  },
+  {
+    "slug": "feminine-waters2",
+    "en": "Feminine waters",
+    "he": "מ''ן"
+  },
+  {
+    "slug": "halakhah",
+    "en": "Halakhah",
+    "he": "הלכה"
+  },
+  {
+    "slug": "human-knowledge",
+    "en": "Human Knowledge",
+    "he": "ידיעה אנושית"
+  },
+  {
+    "slug": "afflictions",
+    "en": "Afflictions",
+    "he": "יסורין"
+  },
+  {
+    "slug": "manna",
+    "en": "Manna",
+    "he": "מן בדור המדבר"
+  },
+  {
+    "slug": "hilchot-kiddushin",
+    "en": "Hilchot Kiddushin",
+    "he": "הלכות קידושין"
+  },
+  {
+    "slug": "birthright",
+    "en": "Birthright",
+    "he": "בכורה"
+  },
+  {
+    "slug": "laws-of-animal-sacrifice-disqualifications",
+    "en": "Laws of Animal Sacrifice Disqualifications",
+    "he": "דיני פסולי קרבן בהמה"
+  },
+  {
+    "slug": "mourning",
+    "en": "Mourning",
+    "he": "אבלות"
+  },
+  {
+    "slug": "sons",
+    "en": "Sons",
+    "he": "בן"
+  },
+  {
+    "slug": "shofar",
+    "en": "Shofar",
+    "he": "שופר"
+  },
+  {
+    "slug": "phrasing-of-scripture",
+    "en": "Phrasing of Scripture",
+    "he": "לשון הפסוק"
+  },
+  {
+    "slug": "psalms",
+    "en": "Psalms",
+    "he": "תהילים"
+  },
+  {
+    "slug": "cain",
+    "en": "Cain",
+    "he": "קין"
+  },
+  {
+    "slug": "laws-of-mourning",
+    "en": "Laws of Mourning",
+    "he": "דיני אבלות"
+  },
+  {
+    "slug": "laws-of-debt-collection",
+    "en": "Laws of Debt Collection",
+    "he": "דיני גביית החוב"
+  },
+  {
+    "slug": "terumah",
+    "en": "Terumah",
+    "he": "תרומה"
+  },
+  {
+    "slug": "shem",
+    "en": "Shem",
+    "he": "שֵׁם"
+  },
+  {
+    "slug": "laws-of-the-prohibitions-of-eating-meat",
+    "en": "Laws of the Prohibitions of Eating Meat",
+    "he": "הלכות איסורי אכילה מן החי"
+  },
+  {
+    "slug": "laws-of-betrothal",
+    "en": "Laws of Betrothal",
+    "he": "הלכות נישואין"
+  },
+  {
+    "slug": "direction",
+    "en": "Direction",
+    "he": "הכוונה"
+  },
+  {
+    "slug": "worlds",
+    "en": "Worlds",
+    "he": "עולם"
+  },
+  {
+    "slug": "places",
+    "en": "Places",
+    "he": "מקומות ואתרים"
+  },
+  {
+    "slug": "sexual-prohibitions",
+    "en": "Sexual Prohibitions",
+    "he": "גלוי עריות"
+  },
+  {
+    "slug": "netzah",
+    "en": "Netzaḥ",
+    "he": "נֶצַח"
+  },
+  {
+    "slug": "zechariah",
+    "en": "Zechariah",
+    "he": "זכריה"
+  },
+  {
+    "slug": "dreams",
+    "en": "Dreams",
+    "he": "חלום"
+  },
+  {
+    "slug": "sin-during-the-days-of-the-first-temple",
+    "en": "Sin During the Days of the First Temple",
+    "he": "החטא בימי בית ראשון"
+  },
+  {
+    "slug": "sexual-intercourse",
+    "en": "Sexual Intercourse",
+    "he": "ביאה"
+  },
+  {
+    "slug": "rabbinic-authority",
+    "en": "Rabbinic Authority",
+    "he": "רבנות"
+  },
+  {
+    "slug": "hod1",
+    "en": "Hod",
+    "he": "הוֹד"
+  },
+  {
+    "slug": "ecclesiastes",
+    "en": "Ecclesiastes",
+    "he": "קהלת"
+  },
+  {
+    "slug": "food",
+    "en": "Food",
+    "he": "מזון"
+  },
+  {
+    "slug": "tribes",
+    "en": "Tribes",
+    "he": "שבטים"
+  },
+  {
+    "slug": "tumah",
+    "en": "Ritual Impurity",
+    "he": "טומאה"
+  },
+  {
+    "slug": "rabbi-chanina-b-dosa",
+    "en": "Rabbi Chanina b. Dosa",
+    "he": "רבי חנינא בן דוסא"
+  },
+  {
+    "slug": "journey-in-the-desert",
+    "en": "Journey in the Desert",
+    "he": "המסע במדבר"
+  },
+  {
+    "slug": "old-age",
+    "en": "Old Age",
+    "he": "זקנה"
+  },
+  {
+    "slug": "dinei-yibum",
+    "en": "Dinei Yibbum",
+    "he": "דיני יבום"
+  },
+  {
+    "slug": "groups",
+    "en": "Groups",
+    "he": "חברה"
+  },
+  {
+    "slug": "machloket",
+    "en": "Machloket",
+    "he": "מחלוקת"
+  },
+  {
+    "slug": "yetzira1",
+    "en": "Yetzira",
+    "he": "יְצִירָה"
+  },
+  {
+    "slug": "society",
+    "en": "Society",
+    "he": "חברה"
+  },
+  {
+    "slug": "doeg",
+    "en": "Doeg",
+    "he": "דואג"
+  },
+  {
+    "slug": "resurrection",
+    "en": "Resurrection",
+    "he": "תחיית המתים"
+  },
+  {
+    "slug": "arrogance-(יהירות)",
+    "en": "Arrogance",
+    "he": "יהירות"
+  },
+  {
+    "slug": "gevura",
+    "en": "Gevura",
+    "he": "גְּבוּרָה"
+  },
+  {
+    "slug": "paths",
+    "en": "Paths",
+    "he": "דרך"
+  },
+  {
+    "slug": "derekh-eretz",
+    "en": "Derekh Eretz",
+    "he": "דרך ארץ"
+  },
+  {
+    "slug": "tekiah",
+    "en": "Tekiah",
+    "he": "תקיעה"
+  },
+  {
+    "slug": "seeing",
+    "en": "Seeing",
+    "he": "ראיה"
+  },
+  {
+    "slug": "tests-of-abraham",
+    "en": "Tests of Abraham",
+    "he": "נסיונות אברהם"
+  },
+  {
+    "slug": "constellations",
+    "en": "Constellations",
+    "he": "מזל"
+  },
+  {
+    "slug": "the-written-torah-and-the-oral-torah",
+    "en": "The Written Torah and the Oral Torah",
+    "he": "תורה שבכתב ושבעל פה"
+  },
+  {
+    "slug": "trees",
+    "en": "Trees",
+    "he": "עץ"
+  },
+  {
+    "slug": "mercy",
+    "en": "Mercy",
+    "he": "רחמים"
+  },
+  {
+    "slug": "the-ten-plagues",
+    "en": "The Ten Plagues",
+    "he": "המכות"
+  },
+  {
+    "slug": "joseph-and-his-brothers",
+    "en": "Joseph and his Brothers",
+    "he": "יוסף ואחיו"
+  },
+  {
+    "slug": "birds",
+    "en": "Birds",
+    "he": "ציפורים"
+  },
+  {
+    "slug": "dinah",
+    "en": "Dinah",
+    "he": "דינה"
+  },
+  {
+    "slug": "lies",
+    "en": "Lies",
+    "he": "שקרים"
+  },
+  {
+    "slug": "kelippot1",
+    "en": "Kelippot",
+    "he": "קְלִפּוֹת"
+  },
+  {
+    "slug": "midrash",
+    "en": "Midrash",
+    "he": "מדרש"
+  },
+  {
+    "slug": "land",
+    "en": "Land",
+    "he": "ארץ"
+  },
+  {
+    "slug": "jehoiakim",
+    "en": "Jehoiakim",
+    "he": "יהויקים"
+  },
+  {
+    "slug": "zelophehad",
+    "en": "Tzelofchad",
+    "he": "צלפחד"
+  },
+  {
+    "slug": "laban",
+    "en": "Laban",
+    "he": "לבן בן בתואל"
+  },
+  {
+    "slug": "dinei-haget",
+    "en": "Dinei HaGet",
+    "he": "דיני הגט"
+  },
+  {
+    "slug": "gechazi",
+    "en": "Gechazi",
+    "he": "גחזי"
+  },
+  {
+    "slug": "demons",
+    "en": "Demons",
+    "he": "שדים"
+  },
+  {
+    "slug": "stealing",
+    "en": "Stealing",
+    "he": "גזל"
+  },
+  {
+    "slug": "souls1",
+    "en": "Souls",
+    "he": "נפש"
+  },
+  {
+    "slug": "niddah",
+    "en": "Niddah",
+    "he": "נידה"
+  },
+  {
+    "slug": "honoring-parents",
+    "en": "Honoring Parents",
+    "he": "כיבוד הורים"
+  },
+  {
+    "slug": "the-tablets",
+    "en": "The Tablets",
+    "he": "הלוחות"
+  },
+  {
+    "slug": "laws-of-holidays",
+    "en": "Laws of Holidays",
+    "he": "הלכות יום טוב"
+  },
+  {
+    "slug": "knowledge",
+    "en": "Knowledge",
+    "he": "ידע"
+  },
+  {
+    "slug": "sicknesses",
+    "en": "Sicknesses",
+    "he": "מַחֲלָה"
+  },
+  {
+    "slug": "drashah",
+    "en": "Drashah",
+    "he": "דרשה"
+  },
+  {
+    "slug": "gehinnom",
+    "en": "Gehenna",
+    "he": "גהינום"
+  },
+  {
+    "slug": "knowing-god",
+    "en": "Knowing God",
+    "he": "ידיעת השם"
+  },
+  {
+    "slug": "shimon-hatzaddik",
+    "en": "Shimon haTzaddik",
+    "he": "שמעון הצדיק"
+  },
+  {
+    "slug": "laws-of-eating-the-priestly-tithe",
+    "en": "Laws of Eating the Priestly Tithe",
+    "he": "דיני אכילת התרומה"
+  },
+  {
+    "slug": "rabbi-nehunya-b-hakanah",
+    "en": "Rabbi Nechunya b. haKanah",
+    "he": "רבי נחוניא בן הקנה"
+  },
+  {
+    "slug": "bikkurim",
+    "en": "Bikkurim",
+    "he": "ביכורים"
+  },
+  {
+    "slug": "maaser",
+    "en": "Ma'aser",
+    "he": "מעשר"
+  },
+  {
+    "slug": "moses-prophecy",
+    "en": "Moses' Prophecy",
+    "he": "נבואת משה"
+  },
+  {
+    "slug": "parashat-balak",
+    "en": "Parashat Balak",
+    "he": "פרשת בלק"
+  },
+  {
+    "slug": "partzuf1",
+    "en": "Partzuf",
+    "he": "פַּרְצוּף"
+  },
+  {
+    "slug": "laws-of-transferring-between-domains",
+    "en": "Laws of Transferring Between Domains",
+    "he": "דיני הוצאה מרשות לרשות"
+  },
+  {
+    "slug": "flood",
+    "en": "Flood",
+    "he": "מבול"
+  },
+  {
+    "slug": "snakes1",
+    "en": "Snakes",
+    "he": "נחש"
+  },
+  {
+    "slug": "modesty",
+    "en": "Modesty",
+    "he": "צניעות"
+  },
+  {
+    "slug": "laws-of-robbery",
+    "en": "Laws of Robbery",
+    "he": "דיני גזלה"
+  },
+  {
+    "slug": "desire-(אוה)",
+    "en": "Desire",
+    "he": "אוה"
+  },
+  {
+    "slug": "laws-of-the-impurity-and-prohibition-of-a-menstruant-woman",
+    "en": "Laws of the Impurity and Prohibition of a Menstruant Woman",
+    "he": "הלכות טומאת נידה ואיסורה"
+  },
+  {
+    "slug": "justice",
+    "en": "Justice",
+    "he": "צדק"
+  },
+  {
+    "slug": "moses-and-israel",
+    "en": "Moses and Israel",
+    "he": "משה וישראל"
+  },
+  {
+    "slug": "books",
+    "en": "Books",
+    "he": "ספר"
+  },
+  {
+    "slug": "adams-sin-and-his-punishment",
+    "en": "Eating From the Tree of Knowledge",
+    "he": "חטא אדם הראשון ועונשו"
+  },
+  {
+    "slug": "seder",
+    "en": "Seder",
+    "he": "ליל הסֵדֶר"
+  },
+  {
+    "slug": "sun",
+    "en": "Sun",
+    "he": "שמש"
+  },
+  {
+    "slug": "abner",
+    "en": "Abner",
+    "he": "אבנר"
+  },
+  {
+    "slug": "mount-sinai",
+    "en": "Mount Sinai",
+    "he": "הר סיני"
+  },
+  {
+    "slug": "complaints-in-the-desert",
+    "en": "Complaints in the Desert",
+    "he": "התלונות במדבר"
+  },
+  {
+    "slug": "truth",
+    "en": "Truth",
+    "he": "אמת"
+  },
+  {
+    "slug": "sodom",
+    "en": "Sodom",
+    "he": "סדום"
+  },
+  {
+    "slug": "friendship",
+    "en": "Friendship",
+    "he": "חברות"
+  },
+  {
+    "slug": "creation-of-man",
+    "en": "Creation of Man",
+    "he": "בריאת אדם"
+  },
+  {
+    "slug": "og",
+    "en": "Og",
+    "he": "עוג"
+  },
+  {
+    "slug": "egyptian-exile",
+    "en": "Egyptian Exile",
+    "he": "גלות מצרים"
+  },
+  {
+    "slug": "partition2",
+    "en": "Partition",
+    "he": "מָסָךְ"
+  },
+  {
+    "slug": "property-(עבודה)",
+    "en": "Property",
+    "he": "רכוש"
+  },
+  {
+    "slug": "divine-names",
+    "en": "Divine Names",
+    "he": "שמות קדושים"
+  },
+  {
+    "slug": "rabbi-hanina-segan-hakohanim",
+    "en": "Rabbi Hanina Segan haKohanim",
+    "he": "רבי חנינא סגן הכהנים"
+  },
+  {
+    "slug": "sichon1",
+    "en": "Sichon",
+    "he": "סיחון"
+  },
+  {
+    "slug": "ahaz",
+    "en": "Ahaz",
+    "he": "אחז"
+  },
+  {
+    "slug": "hearts",
+    "en": "Hearts",
+    "he": "לב"
+  },
+  {
+    "slug": "achan",
+    "en": "Achan",
+    "he": "עכן"
+  },
+  {
+    "slug": "giving",
+    "en": "Giving",
+    "he": "נתינה"
+  },
+  {
+    "slug": "laws-of-blessings-on-pleasures",
+    "en": "Laws of Blessings on Pleasures",
+    "he": "הלכות ברכות ההנאה"
+  },
+  {
+    "slug": "mikhal",
+    "en": "Mikhal",
+    "he": "מיכל"
+  },
+  {
+    "slug": "synagogues",
+    "en": "Synagogues",
+    "he": "בית כנסת"
+  },
+  {
+    "slug": "matzah",
+    "en": "Matzah",
+    "he": "מצה"
+  },
+  {
+    "slug": "tisha-bav",
+    "en": "Tisha B'Av",
+    "he": "תשעה באב"
+  },
+  {
+    "slug": "laws-of-those-forbidden-to-marry-priests",
+    "en": "Laws of Those Forbidden to Marry Priests",
+    "he": "הלכות איסורי כהונה"
+  },
+  {
+    "slug": "kavanah",
+    "en": "Kavanah",
+    "he": "כוונה"
+  },
+  {
+    "slug": "folklore",
+    "en": "Folklore",
+    "he": "פולקלור"
+  },
+  {
+    "slug": "work",
+    "en": "Work",
+    "he": "עֲבוֹדָה"
+  },
+  {
+    "slug": "canaanite-slaves",
+    "en": "Canaanite Slaves",
+    "he": "עבד כנעני"
+  },
+  {
+    "slug": "high-priest",
+    "en": "High Priest",
+    "he": "כהן גדול"
+  },
+  {
+    "slug": "generation-of-the-flood",
+    "en": "Generation of the Flood",
+    "he": "דור המבול"
+  },
+  {
+    "slug": "beria",
+    "en": "Beria",
+    "he": "בְּרִיאָה"
+  },
+  {
+    "slug": "ignorant-people",
+    "en": "Ignorant People",
+    "he": "עם הארץ"
+  },
+  {
+    "slug": "ashur",
+    "en": "Assyria",
+    "he": "אשור"
+  },
+  {
+    "slug": "general-laws-of-food",
+    "en": "General Laws of Food",
+    "he": "דיני מזון כלליים"
+  },
+  {
+    "slug": "akavyah-b-mahalalel",
+    "en": "Akaviah ben Mehalalel",
+    "he": "עקביא בן מהללאל"
+  },
+  {
+    "slug": "sounds",
+    "en": "Sounds",
+    "he": "קול"
+  },
+  {
+    "slug": "yehoshafat",
+    "en": "Yehoshafat",
+    "he": "יהושפט"
+  },
+  {
+    "slug": "clothing",
+    "en": "Clothing",
+    "he": "בגדים"
+  },
+  {
+    "slug": "amram",
+    "en": "Amram",
+    "he": "עמרם"
+  },
+  {
+    "slug": "intellect1",
+    "en": "Intellect",
+    "he": "דעת"
+  },
+  {
+    "slug": "batsheva3",
+    "en": "Batsheva",
+    "he": "בת שבע"
+  },
+  {
+    "slug": "isaacs-blessing",
+    "en": "Isaac's Blessing",
+    "he": "ברכת יצחק"
+  },
+  {
+    "slug": "memory",
+    "en": "Memory",
+    "he": "זיכרון"
+  },
+  {
+    "slug": "god-and-existence",
+    "en": "God and Existence",
+    "he": "אלקים ומציאות"
+  },
+  {
+    "slug": "obligation-of-the-priestly-tithe-and-its-separation",
+    "en": "Obligation of the Priestly Tithe and its Separation",
+    "he": "חיוב תרומה והפרשתה"
+  },
+  {
+    "slug": "sherets",
+    "en": "Creeping Creatures",
+    "he": "שרץ"
+  },
+  {
+    "slug": "rabbi-nehorai",
+    "en": "Rabbi Nehorai",
+    "he": "רבי נהוראי"
+  },
+  {
+    "slug": "sleep",
+    "en": "Sleep",
+    "he": "שינה"
+  },
+  {
+    "slug": "dogs",
+    "en": "Dogs",
+    "he": "כלב"
+  },
+  {
+    "slug": "expression",
+    "en": "Expression",
+    "he": "לשון"
+  },
+  {
+    "slug": "trust",
+    "en": "Trust",
+    "he": "בטחון"
+  },
+  {
+    "slug": "sages",
+    "en": "Sages",
+    "he": "חכם"
+  },
+  {
+    "slug": "nikanor",
+    "en": "Nikanor",
+    "he": "ניקנור"
+  },
+  {
+    "slug": "workers",
+    "en": "Workers",
+    "he": "פועל"
+  },
+  {
+    "slug": "curses",
+    "en": "Curses",
+    "he": "קללות"
+  },
+  {
+    "slug": "meals-(סעודה)",
+    "en": "Meals",
+    "he": "סעודה"
+  },
+  {
+    "slug": "second-temple",
+    "en": "Second Temple",
+    "he": "בית שני"
+  },
+  {
+    "slug": "signs1",
+    "en": "Signs",
+    "he": "סימן"
+  },
+  {
+    "slug": "moses-at-the-bush",
+    "en": "Moses at the Bush",
+    "he": "משה בסנה"
+  },
+  {
+    "slug": "gods-trait-of-judgement-and-trait-of-mercy",
+    "en": "God's Trait of Judgement and Trait of Mercy",
+    "he": "מדת הדין מדת הרחמים"
+  },
+  {
+    "slug": "bread",
+    "en": "Bread",
+    "he": "לחם"
+  },
+  {
+    "slug": "samuel-(prophet)",
+    "en": "Samuel",
+    "he": "שמואל הנביא"
+  },
+  {
+    "slug": "king-shapur",
+    "en": "King Shapur",
+    "he": "שבור מלכא"
+  },
+  {
+    "slug": "fire",
+    "en": "Fire",
+    "he": "אש"
+  },
+  {
+    "slug": "letters",
+    "en": "Letters",
+    "he": "אותיות"
+  },
+  {
+    "slug": "the-copper-altar",
+    "en": "The Copper Altar",
+    "he": "מזבח הנחושת"
+  },
+  {
+    "slug": "garden-of-eden",
+    "en": "Garden of Eden",
+    "he": "גן עדן"
+  },
+  {
+    "slug": "the-book-of-esther",
+    "en": "The Book of Esther",
+    "he": "מגילת אסתר"
+  },
+  {
+    "slug": "incense",
+    "en": "Incense",
+    "he": "קטורת"
+  },
+  {
+    "slug": "zimri",
+    "en": "Zimri",
+    "he": "זמרי"
+  },
+  {
+    "slug": "the-prohibitions-of-shabbat",
+    "en": "The Prohibitions of Shabbat",
+    "he": "איסורי שבת"
+  },
+  {
+    "slug": "mar-b-ravina",
+    "en": "Mar b. Ravina",
+    "he": "מר בריה דרבינא"
+  },
+  {
+    "slug": "giving-of-the-torah",
+    "en": "Giving of the Torah",
+    "he": "מתן תורה"
+  },
+  {
+    "slug": "korban-pesach",
+    "en": "Korban Pesach",
+    "he": "קרבן פסח"
+  },
+  {
+    "slug": "rabbi-simlai",
+    "en": "Rabbi Simlai",
+    "he": "רבי שמלאי"
+  },
+  {
+    "slug": "yerovam-(son-of-nebat)",
+    "en": "Jeroboam",
+    "he": "ירבעם בן נבט"
+  },
+  {
+    "slug": "zevulun",
+    "en": "Zevulun",
+    "he": "זבולון"
+  },
+  {
+    "slug": "sanhedrin",
+    "en": "Sanhedrin",
+    "he": "סנהדרין"
+  },
+  {
+    "slug": "shacharit",
+    "en": "Morning Prayer Service",
+    "he": "תפילת שחרית"
+  },
+  {
+    "slug": "piety",
+    "en": "Piety",
+    "he": "חסידות"
+  },
+  {
+    "slug": "maturity2",
+    "en": "Maturity",
+    "he": "גַּדְלוּת"
+  },
+  {
+    "slug": "diverse-abilities",
+    "en": "Disability",
+    "he": "נכות"
+  },
+  {
+    "slug": "adam-kadmon1",
+    "en": "Adam Kadmon",
+    "he": "אָדָם קַדְמוֹן"
+  },
+  {
+    "slug": "effect-of-torah",
+    "en": "Effect of Torah",
+    "he": "פעולת התורה"
+  },
+  {
+    "slug": "parah-adumah",
+    "en": "The Red Heifer",
+    "he": "פרה אדומה"
+  },
+  {
+    "slug": "rahab",
+    "en": "Rahab",
+    "he": "רחב"
+  },
+  {
+    "slug": "eve",
+    "en": "Eve",
+    "he": "חוה"
+  },
+  {
+    "slug": "issachar",
+    "en": "Issachar",
+    "he": "יששכר"
+  },
+  {
+    "slug": "good",
+    "en": "Good",
+    "he": "טוב"
+  },
+  {
+    "slug": "stipulations-and-errors-in-a-divorce-bill",
+    "en": "Stipulations and Errors in a Divorce Bill",
+    "he": "תנאים וטעויות בגט"
+  },
+  {
+    "slug": "the-hardening-of-pharaohs-heart",
+    "en": "The Hardening of Pharaoh's Heart",
+    "he": "חיזוק לב פרעה"
+  },
+  {
+    "slug": "nachshon-ben-aminadav",
+    "en": "Nachshon Ben Aminadav",
+    "he": "נחשון בן עמינדב"
+  },
+  {
+    "slug": "discernment",
+    "en": "Discernment",
+    "he": "שכל"
+  },
+  {
+    "slug": "asiya1",
+    "en": "Asiya",
+    "he": "עֲשִׂיָּה"
+  },
+  {
+    "slug": "taharah",
+    "en": "Purity (Taharah)",
+    "he": "טהרה"
+  },
+  {
+    "slug": "sotah",
+    "en": "Sotah",
+    "he": "סוטה"
+  },
+  {
+    "slug": "conditions-that-forbid-one-from-entering-the-temple-and-serving-in-it",
+    "en": "Conditions that Forbid One from Entering the Temple and Serving in It",
+    "he": "מצבים האוסרים כניסה למקדש ועבודה בו"
+  },
+  {
+    "slug": "hallel",
+    "en": "Hallel",
+    "he": "הַלֵּל"
+  },
+  {
+    "slug": "nehemiah",
+    "en": "Nehemiah",
+    "he": "נחמיה"
+  },
+  {
+    "slug": "laws-of-regular-and-additional-shabbat-sacrifices",
+    "en": "Laws of Regular and Additional Shabbat Sacrifices",
+    "he": "הלכות תמידין ומוספי שבת"
+  },
+  {
+    "slug": "sexual-immorality",
+    "en": "Sexual Immorality",
+    "he": "זנות"
+  },
+  {
+    "slug": "mountains",
+    "en": "Mountains",
+    "he": "הר"
+  },
+  {
+    "slug": "laws-of-muktzah",
+    "en": "Laws of Muktzah",
+    "he": "דיני מוקצה"
+  },
+  {
+    "slug": "midian",
+    "en": "Midian",
+    "he": "מדין"
+  },
+  {
+    "slug": "rabban-gamliel-hazaken-(i)",
+    "en": "Rabban Gamliel haZaken",
+    "he": "רבן גמליאל הזקן"
+  },
+  {
+    "slug": "naomi",
+    "en": "Naomi",
+    "he": "נעמי"
+  },
+  {
+    "slug": "theodicy",
+    "en": "Theodicy",
+    "he": "תאודיציה"
+  },
+  {
+    "slug": "kiddush-hashem",
+    "en": "Kiddush Hashem",
+    "he": "קידוש השם"
+  },
+  {
+    "slug": "embarrassment",
+    "en": "Embarrassment",
+    "he": "בושה"
+  },
+  {
+    "slug": "haggai",
+    "en": "Haggai",
+    "he": "חגי"
+  },
+  {
+    "slug": "laws-of-those-forbidden-to-marry-into-the-congregation",
+    "en": "Laws of Those Forbidden to Marry into the Congregation",
+    "he": "דיני האסורים בקהל"
+  },
+  {
+    "slug": "revenge",
+    "en": "Revenge",
+    "he": "נקמה"
+  },
+  {
+    "slug": "distinctions-of-the-land-of-israel",
+    "en": "Distinctiveness of the Land of Israel",
+    "he": "מעלות ארץ ישראל"
+  },
+  {
+    "slug": "babel",
+    "en": "Babel",
+    "he": "בבל"
+  },
+  {
+    "slug": "ibn-ezra",
+    "en": "Abraham ibn Ezra",
+    "he": "אבן עזרא"
+  },
+  {
+    "slug": "forgiveness",
+    "en": "Forgiveness",
+    "he": "סליחה"
+  },
+  {
+    "slug": "birkat-hamazon",
+    "en": "Birkat HaMazon",
+    "he": "ברכת המזון"
+  },
+  {
+    "slug": "hilchot-eruv-chatzerot-and-shituf-mevoaot",
+    "en": "Hilchot Eruv Chatzerot and Shituf Mevoaot",
+    "he": "הלכות עירובי חצרות ושיתופי מבואות"
+  },
+  {
+    "slug": "crying",
+    "en": "Crying",
+    "he": "בכיה"
+  },
+  {
+    "slug": "knowing",
+    "en": "Knowing",
+    "he": "ידיעה"
+  },
+  {
+    "slug": "tavi",
+    "en": "Tavi",
+    "he": "טבי"
+  },
+  {
+    "slug": "stars",
+    "en": "Stars",
+    "he": "כוכבים"
+  },
+  {
+    "slug": "pain",
+    "en": "Pain",
+    "he": "צער"
+  },
+  {
+    "slug": "nasi",
+    "en": "Nasi",
+    "he": "נשיא"
+  },
+  {
+    "slug": "tests",
+    "en": "Tests",
+    "he": "נסיון"
+  },
+  {
+    "slug": "naftali",
+    "en": "Naftali",
+    "he": "נפתלי"
+  },
+  {
+    "slug": "laws-of-court-punishments",
+    "en": "Laws of Court Punishments",
+    "he": "דיני עונשי בית הדין"
+  },
+  {
+    "slug": "aron-habrit",
+    "en": "Aron HaBrit",
+    "he": "ארון הברית"
+  },
+  {
+    "slug": "natan",
+    "en": "Natan",
+    "he": "נתן הנביא"
+  },
+  {
+    "slug": "laws-of-animal-firstlings",
+    "en": "Laws of Animal Firstlings",
+    "he": "דיני בכור בהמה"
+  },
+  {
+    "slug": "safek",
+    "en": "Safek",
+    "he": "ספק"
+  },
+  {
+    "slug": "fruit",
+    "en": "Fruit",
+    "he": "פרי"
+  },
+  {
+    "slug": "choni-hameagel1",
+    "en": "Choni HaMeagel",
+    "he": "חוני המעגל"
+  },
+  {
+    "slug": "writing",
+    "en": "Writing",
+    "he": "כתיבה"
+  },
+  {
+    "slug": "laws-of-vows-and-their-release",
+    "en": "Laws of Vows and their Release",
+    "he": "דיני הנדרים והתרתם"
+  },
+  {
+    "slug": "agency",
+    "en": "Agent",
+    "he": "שליחות"
+  },
+  {
+    "slug": "bodies",
+    "en": "Body",
+    "he": "גוף"
+  },
+  {
+    "slug": "moses-and-the-torah",
+    "en": "Moses and the Torah",
+    "he": "תורת משה"
+  },
+  {
+    "slug": "donations-for-the-tabernacle",
+    "en": "Donations for the Tabernacle",
+    "he": "נדבת המשכן"
+  },
+  {
+    "slug": "homes",
+    "en": "Homes",
+    "he": "בית"
+  },
+  {
+    "slug": "fish",
+    "en": "Fish",
+    "he": "דג"
+  },
+  {
+    "slug": "netilat-yadayim",
+    "en": "Netilat Yadayim",
+    "he": "נטילת ידים"
+  },
+  {
+    "slug": "sitra-achra",
+    "en": "Sitra Achra",
+    "he": "סטרא אחרא"
+  },
+  {
+    "slug": "abigail",
+    "en": "Abigail",
+    "he": "אביגיל"
+  },
+  {
+    "slug": "egyptian-subjugation",
+    "en": "Egyptian Subjugation",
+    "he": "שעבוד מצרים"
+  },
+  {
+    "slug": "dominion",
+    "en": "Dominion",
+    "he": "שררה"
+  },
+  {
+    "slug": "shemoneh-esrei",
+    "en": "Amidah",
+    "he": "עמידה"
+  },
+  {
+    "slug": "mezuzah",
+    "en": "Mezuzah",
+    "he": "מזוזה"
+  },
+  {
+    "slug": "yose-b-yoezer",
+    "en": "Yose b. Yoezer",
+    "he": "יוסי בן יועזר"
+  },
+  {
+    "slug": "he-who-pities-and-has-great-kindness",
+    "en": "He who Pities and has Great Kindness",
+    "he": "חנון ורב חסד"
+  },
+  {
+    "slug": "sag",
+    "en": "Sag",
+    "he": "ס\"ג"
+  },
+  {
+    "slug": "the-angel-of-death",
+    "en": "The Angel of Death",
+    "he": "מלאך המות"
+  },
+  {
+    "slug": "kush",
+    "en": "Kush",
+    "he": "כוש"
+  },
+  {
+    "slug": "night",
+    "en": "Night",
+    "he": "לילה"
+  },
+  {
+    "slug": "satan",
+    "en": "Satan",
+    "he": "שטן"
+  },
+  {
+    "slug": "laws-of-forbidden-sexual-relations",
+    "en": "Laws of Forbidden Sexual Relations",
+    "he": "הלכות עריות"
+  },
+  {
+    "slug": "ruach-hakodesh1",
+    "en": "Ruach Hakodesh",
+    "he": "רוח הקודש"
+  },
+  {
+    "slug": "money-(ממון)",
+    "en": "Money",
+    "he": "ממון"
+  },
+  {
+    "slug": "rome",
+    "en": "Rome",
+    "he": "רומי"
+  },
+  {
+    "slug": "laws-of-theft",
+    "en": "Laws of Theft",
+    "he": "הלכות גניבה"
+  },
+  {
+    "slug": "image-of-god",
+    "en": "Image of God",
+    "he": "צלם אלוקים"
+  },
+  {
+    "slug": "imagination",
+    "en": "Imagination",
+    "he": "דמיון"
+  },
+  {
+    "slug": "rashi",
+    "en": "Rashi",
+    "he": "רש״י"
+  },
+  {
+    "slug": "laws-of-canaanite-gentile-slaves",
+    "en": "Laws of Canaanite Gentile Slaves",
+    "he": "דיני עבד כנעני"
+  },
+  {
+    "slug": "the-four-kingdoms",
+    "en": "The Four Kingdoms",
+    "he": "ארבע מלכויות"
+  },
+  {
+    "slug": "fear-(פחד)",
+    "en": "Fear",
+    "he": "פחד"
+  },
+  {
+    "slug": "censuses",
+    "en": "Censuses",
+    "he": "מפקד"
+  },
+  {
+    "slug": "greece",
+    "en": "Greece",
+    "he": "יון"
+  },
+  {
+    "slug": "cain-and-abel",
+    "en": "Cain and Abel",
+    "he": "קין והבל"
+  },
+  {
+    "slug": "jesse",
+    "en": "Jesse",
+    "he": "ישי"
+  },
+  {
+    "slug": "malachi",
+    "en": "Malachi",
+    "he": "מלאכי"
+  },
+  {
+    "slug": "dinei-maaser-sheni",
+    "en": "Dinei Ma'aser Sheni",
+    "he": "דיני מעשר שני"
+  },
+  {
+    "slug": "slaughter",
+    "en": "Slaughter",
+    "he": "שחיטה"
+  },
+  {
+    "slug": "balaam-and-israel",
+    "en": "Balaam and Israel",
+    "he": "בלעם וישראל"
+  },
+  {
+    "slug": "the-sale-of-joseph",
+    "en": "The Sale of Joseph",
+    "he": "מכירת יוסף"
+  },
+  {
+    "slug": "noahide",
+    "en": "Noahide",
+    "he": "בן נח"
+  },
+  {
+    "slug": "rescuing",
+    "en": "Rescuing",
+    "he": "הצלה"
+  },
+  {
+    "slug": "ramban",
+    "en": "Moses ben Nachman (Ramban)",
+    "he": "רמב״ן"
+  },
+  {
+    "slug": "second-constriction",
+    "en": "Second Constriction",
+    "he": "צִמְצוּם ב'"
+  },
+  {
+    "slug": "laws-of-those-that-transmit-impurity-via-beds-and-seats",
+    "en": "Laws of Those that Transmit Impurity via Beds and Seats",
+    "he": "דיני המטמאים במשכב ובמושב"
+  },
+  {
+    "slug": "nefesh",
+    "en": "Nefesh",
+    "he": "נֶפֶשׁ"
+  },
+  {
+    "slug": "leaders-(פרנס)",
+    "en": "Leaders",
+    "he": "פרנס"
+  },
+  {
+    "slug": "laws-of-sacrifice-obligations",
+    "en": "Laws of Sacrifice Obligations",
+    "he": "דיני ההתחייבות בקרבנות"
+  },
+  {
+    "slug": "laws-of-lost-objects",
+    "en": "Laws of Lost Objects",
+    "he": "דיני אבדה"
+  },
+  {
+    "slug": "hekdesh",
+    "en": "Hekdesh",
+    "he": "הקדש"
+  },
+  {
+    "slug": "mikveh",
+    "en": "Mikveh",
+    "he": "מקווה"
+  },
+  {
+    "slug": "laws-of-contracts-and-guarantors",
+    "en": "Laws of Contracts and Guarantors",
+    "he": "דיני שטרות וערבים"
+  },
+  {
+    "slug": "priestly-garments",
+    "en": "Priestly Garments",
+    "he": "בגדי כהונה"
+  },
+  {
+    "slug": "joseph-karo",
+    "en": "Joseph Karo",
+    "he": "יוסף קארו"
+  },
+  {
+    "slug": "murderers",
+    "en": "Murderers",
+    "he": "רוצח"
+  },
+  {
+    "slug": "gods-existence",
+    "en": "God's Existence",
+    "he": "מציאות אלקים"
+  },
+  {
+    "slug": "mefiboshet",
+    "en": "Mefiboshet",
+    "he": "מפיבושת"
+  },
+  {
+    "slug": "commandments-between-man-and-god-and-between-man-and-his-fellow",
+    "en": "Commandments between Man and God, and between Man and His Fellow",
+    "he": "מצוות בין אדם למקום ובין אדם לחברו"
+  },
+  {
+    "slug": "laws-of-the-main-categories-of-impurity",
+    "en": "Laws of the Main Categories of Impurity",
+    "he": "דיני אבות הטומאה"
+  },
+  {
+    "slug": "oils1",
+    "en": "Oils",
+    "he": "שמן"
+  },
+  {
+    "slug": "guests",
+    "en": "Guests",
+    "he": "אורחים"
+  },
+  {
+    "slug": "families",
+    "en": "Families",
+    "he": "משפחה"
+  },
+  {
+    "slug": "theft",
+    "en": "Theft",
+    "he": "גנבה"
+  },
+  {
+    "slug": "torah-study",
+    "en": "Torah Study",
+    "he": "לימוד תורה"
+  },
+  {
+    "slug": "moses-death-and-burial",
+    "en": "Moses' Death and Burial",
+    "he": "מיתת משה וקבורתו"
+  },
+  {
+    "slug": "laws-of-the-yom-kippur-service",
+    "en": "Laws of the Yom Kippur Service",
+    "he": "הלכות עבודת יום כיפור"
+  },
+  {
+    "slug": "laws-of-the-prohibitions-of-eating-vegetation",
+    "en": "Laws of the Prohibitions of Eating Vegetation",
+    "he": "הלכות איסורי אכילה מן הצומח"
+  },
+  {
+    "slug": "settling-the-land-of-israel",
+    "en": "Settling the Land of Israel",
+    "he": "יישוב ארץ ישראל"
+  },
+  {
+    "slug": "laws-of-honoring-the-sages",
+    "en": "Laws of Honoring the Sages",
+    "he": "דיני כבוד החכמים"
+  },
+  {
+    "slug": "isaac-and-rebecca",
+    "en": "Isaac and Rebecca",
+    "he": "יצחק ורבקה"
+  },
+  {
+    "slug": "permissibility-for-a-woman-to-remarry-after-separation-from-or-death-of-husband",
+    "en": "Permissibility for a Woman to Remarry after Separation from or Death of Husband",
+    "he": "היתר אישה להינשא אחרי מיאון, גירושין ומיתת הבעל"
+  },
+  {
+    "slug": "aram",
+    "en": "Aram",
+    "he": "ארם"
+  },
+  {
+    "slug": "maaser-sheni",
+    "en": "Ma'aser Sheni",
+    "he": "מעשר שני"
+  },
+  {
+    "slug": "health",
+    "en": "Health",
+    "he": "בריאות"
+  },
+  {
+    "slug": "seas1",
+    "en": "Sea",
+    "he": "ים"
+  },
+  {
+    "slug": "numbers",
+    "en": "Numbers",
+    "he": "מספר"
+  },
+  {
+    "slug": "cyrus",
+    "en": "Cyrus",
+    "he": "כורש"
+  },
+  {
+    "slug": "challah",
+    "en": "Challah",
+    "he": "חלה"
+  },
+  {
+    "slug": "priestly-blessing",
+    "en": "Priestly Blessing",
+    "he": "ברכת כהנים"
+  },
+  {
+    "slug": "jonathan1",
+    "en": "Jonathan",
+    "he": "יהונתן בן שאול"
+  },
+  {
+    "slug": "laws-of-misappropriation-of-items-sanctified-for-the-altar",
+    "en": "Laws of Misappropriation of Items Sanctified for the Altar",
+    "he": "דיני מעילה בקדשי מזבח"
+  },
+  {
+    "slug": "babies1",
+    "en": "Babies",
+    "he": "תינוק"
+  },
+  {
+    "slug": "harmful-forces",
+    "en": "Harmful Forces",
+    "he": "מזיקין"
+  },
+  {
+    "slug": "the-hebrew-language",
+    "en": "The Hebrew Language",
+    "he": "עברית"
+  },
+  {
+    "slug": "divorce",
+    "en": "Divorce",
+    "he": "גירושין"
+  },
+  {
+    "slug": "rape",
+    "en": "Rape",
+    "he": "אונס"
+  },
+  {
+    "slug": "suffering",
+    "en": "Suffering",
+    "he": "סבל"
+  },
+  {
+    "slug": "asa",
+    "en": "Asa",
+    "he": "אסא"
+  },
+  {
+    "slug": "laws-of-vegetal-offerings",
+    "en": "Laws of Vegetal Offerings",
+    "he": "הלכות קרבנות מן הצומח"
+  },
+  {
+    "slug": "donkeys",
+    "en": "Donkeys",
+    "he": "חמור"
+  },
+  {
+    "slug": "laws-of-preventative-separations",
+    "en": "Laws of Preventative Separations",
+    "he": "דיני הרחקות"
+  },
+  {
+    "slug": "moses-and-god",
+    "en": "Moses and God",
+    "he": "משה וה'"
+  },
+  {
+    "slug": "lulav",
+    "en": "Lulav",
+    "he": "לולב"
+  },
+  {
+    "slug": "legal-instructions",
+    "en": "Legal Instructions",
+    "he": "הוראה"
+  },
+  {
+    "slug": "rehoboam",
+    "en": "Rehoboam",
+    "he": "רחבעם"
+  },
+  {
+    "slug": "order-and-practice-of-prayer",
+    "en": "Order and Practice of Prayer",
+    "he": "סדר התפילה למעשה"
+  },
+  {
+    "slug": "amos",
+    "en": "Amos",
+    "he": "עמוס"
+  },
+  {
+    "slug": "mistakes",
+    "en": "Mistakes",
+    "he": "טעות"
+  },
+  {
+    "slug": "shefa1",
+    "en": "Shefa",
+    "he": "שֶׁפַע"
+  },
+  {
+    "slug": "yefet",
+    "en": "Yefet",
+    "he": "יפת"
+  },
+  {
+    "slug": "forgetting",
+    "en": "Forgetting",
+    "he": "שכח"
+  },
+  {
+    "slug": "work-(מלאכה)",
+    "en": "Work",
+    "he": "מלאכה"
+  },
+  {
+    "slug": "darius",
+    "en": "Darius",
+    "he": "דריוש"
+  },
+  {
+    "slug": "alacrity",
+    "en": "Alacrity",
+    "he": "זריזות"
+  },
+  {
+    "slug": "beria1",
+    "en": "Beria",
+    "he": "בְּרִיאָה"
+  },
+  {
+    "slug": "laws-of-the-methods-of-acquisition",
+    "en": "Laws of the Methods of Acquisition",
+    "he": "דיני דרכי הקניין"
+  },
+  {
+    "slug": "laws-of-slaughter",
+    "en": "Laws of Slaughter",
+    "he": "הלכות שחיטה"
+  },
+  {
+    "slug": "additional-gifts-to-the-priesthood",
+    "en": "Additional Gifts to the Priesthood",
+    "he": "מתנות כהונה נוספות"
+  },
+  {
+    "slug": "jealousy",
+    "en": "Jealousy",
+    "he": "קנאה"
+  },
+  {
+    "slug": "laws-of-gifts",
+    "en": "Laws of Gifts",
+    "he": "דיני מתנה"
+  },
+  {
+    "slug": "hunger",
+    "en": "Hunger",
+    "he": "רעב"
+  },
+  {
+    "slug": "the-waters-of-meribah",
+    "en": "The Waters of Meribah",
+    "he": "מי מריבה"
+  },
+  {
+    "slug": "mentally-handicapped-people",
+    "en": "Mentally Handicapped People",
+    "he": "שוטה"
+  },
+  {
+    "slug": "laws-of-the-recitation-of-shema",
+    "en": "Laws of the Recitation of Shema",
+    "he": "דיני קריאת שמע"
+  },
+  {
+    "slug": "gideon",
+    "en": "Gideon",
+    "he": "גדעון"
+  },
+  {
+    "slug": "chanting",
+    "en": "Chanting",
+    "he": null
+  },
+  {
+    "slug": "praise-of-god",
+    "en": "Praise of God",
+    "he": "תהילת אלקים"
+  },
+  {
+    "slug": "yokheved",
+    "en": "Yokheved",
+    "he": "יוכבד"
+  },
+  {
+    "slug": "righteous-people-and-evildoers",
+    "en": "Righteous People and Evildoers",
+    "he": "צַדִּיק וְרָשָׁע"
+  },
+  {
+    "slug": "the-messianic-era",
+    "en": "The Messianic Era",
+    "he": "ימות המשיח"
+  },
+  {
+    "slug": "shmuel-the-little",
+    "en": "Shmuel the Little",
+    "he": "שמואל הקטן"
+  },
+  {
+    "slug": "vashti",
+    "en": "Vashti",
+    "he": "ושתי"
+  },
+  {
+    "slug": "machatzit-hashekel",
+    "en": "Machatzit Hashekel",
+    "he": "מחצית השקל"
+  },
+  {
+    "slug": "devekut",
+    "en": "Devekut",
+    "he": "דבקות"
+  },
+  {
+    "slug": "laws-of-temple-workers",
+    "en": "Laws of Temple Workers",
+    "he": "הלכות העובדים במקדש"
+  },
+  {
+    "slug": "faces",
+    "en": "Faces",
+    "he": "פנים"
+  },
+  {
+    "slug": "temple-vessels",
+    "en": "Temple Vessels",
+    "he": "כלי המקדש"
+  },
+  {
+    "slug": "rabbi-elazar-b-arakh",
+    "en": "Rabbi Elazar b. Arakh",
+    "he": "רבי אלעזר בן ערך"
+  },
+  {
+    "slug": "high-holidays",
+    "en": "High Holidays",
+    "he": "הימים הנוראים"
+  },
+  {
+    "slug": "stipulations-of-a-purchased-acquisition",
+    "en": "Stipulations of a Purchased Acquisition",
+    "he": "גדרי המקח הנקנה"
+  },
+  {
+    "slug": "sisera",
+    "en": "Sisera",
+    "he": "סיסרא"
+  },
+  {
+    "slug": "world-of-nekudim",
+    "en": "World of Nekudim",
+    "he": "עוֹלָם הַנְּקוּּדִים"
+  },
+  {
+    "slug": "laws-of-final-touches-on-shabbat",
+    "en": "Laws of Final Touches on Shabbat",
+    "he": "דיני מכה בפטיש בשבת"
+  },
+  {
+    "slug": "kilayim",
+    "en": "Kilayim",
+    "he": "כלאים"
+  },
+  {
+    "slug": "sin-and-punishment-of-the-serpent",
+    "en": "Sin and Punishment of the Serpent",
+    "he": "חטא הנחש ועונש"
+  },
+  {
+    "slug": "shemini-atzeret",
+    "en": "Shemini Atzeret",
+    "he": "שמיני עצרת"
+  },
+  {
+    "slug": "agrippa",
+    "en": "Agrippa",
+    "he": "אגריפס"
+  },
+  {
+    "slug": "micah",
+    "en": "Micah",
+    "he": "מיכה הנביא"
+  },
+  {
+    "slug": "gods-will",
+    "en": "God's Will",
+    "he": "רצון אלקים"
+  },
+  {
+    "slug": "laws-of-the-fixed-sin-offering",
+    "en": "Laws of the Fixed Sin-offering",
+    "he": "הלכות חטאת קבועה"
+  },
+  {
+    "slug": "outside-of-israel",
+    "en": "Outside of Israel",
+    "he": "חוץ לארץ"
+  },
+  {
+    "slug": "omer-offering",
+    "en": "Omer Offering",
+    "he": "קרבן העומר"
+  },
+  {
+    "slug": "hagar",
+    "en": "Hagar",
+    "he": "הגר"
+  },
+  {
+    "slug": "gog-and-magog",
+    "en": "Gog and Magog",
+    "he": "גוג ומגוג"
+  },
+  {
+    "slug": "smell",
+    "en": "Smell",
+    "he": "ריח"
+  },
+  {
+    "slug": "immersion",
+    "en": "Immersion",
+    "he": "טבילה"
+  },
+  {
+    "slug": "abel",
+    "en": "Abel",
+    "he": "הבל"
+  },
+  {
+    "slug": "laws-of-blessings",
+    "en": "Laws of Blessings",
+    "he": "הלכות ברכות"
+  },
+  {
+    "slug": "the-four-species",
+    "en": "The Four Species",
+    "he": "ארבעת המינים"
+  },
+  {
+    "slug": "positive-and-negative-commandments",
+    "en": "Positive and Negative Commandments",
+    "he": "מצוות עשה ולא תעשה"
+  },
+  {
+    "slug": "order-of-inheritance",
+    "en": "Order of Inheritance",
+    "he": "סדר הירושה"
+  },
+  {
+    "slug": "hands",
+    "en": "Hands",
+    "he": "יד"
+  },
+  {
+    "slug": "antoninus1",
+    "en": "Antoninus",
+    "he": "אַנְטוּנִינוּס"
+  },
+  {
+    "slug": "moses-prayer-after-the-sin-of-the-calf",
+    "en": "Moses' Prayer after the Sin of the Calf",
+    "he": "תפילת משה לאחר חטא העגל"
+  },
+  {
+    "slug": "rabbi-yohanan-hasandlar",
+    "en": "Rabbi Yohanan Hasandlar",
+    "he": "ר יוחנן הסנדלר"
+  },
+  {
+    "slug": "sefirat-haomer",
+    "en": "Sefirat HaOmer",
+    "he": "ספירת העומר"
+  },
+  {
+    "slug": "laws-of-additional-holiday-sacrifices",
+    "en": "Laws of Additional Holiday Sacrifices",
+    "he": "הלכות מוספי המועדים"
+  },
+  {
+    "slug": "appointment-of-judges-for-the-generation-of-the-desert",
+    "en": "Appointment of Judges for The Generation of the Desert",
+    "he": "מינוי דיינים בדור המדבר"
+  },
+  {
+    "slug": "gratitude",
+    "en": "Gratitude",
+    "he": "הכרת הטוב"
+  },
+  {
+    "slug": "rabban-gamliel",
+    "en": "Rabban Gamliel of Yavneh",
+    "he": "רבן גמליאל דיבנה"
+  },
+  {
+    "slug": "thanks",
+    "en": "Thanks",
+    "he": "תודה"
+  },
+  {
+    "slug": "tu-bishvat",
+    "en": "Tu Bishvat",
+    "he": "ט\"ו בשבט"
+  },
+  {
+    "slug": "laws-of-annulling-vows",
+    "en": "Laws of Annulling Vows",
+    "he": "דיני הפרת נדרים"
+  },
+  {
+    "slug": "murder",
+    "en": "Murder",
+    "he": "רצח"
+  },
+  {
+    "slug": "ham",
+    "en": "Ham",
+    "he": "חם"
+  },
+  {
+    "slug": "injury-law",
+    "en": "Injury Law",
+    "he": "דיני חובל"
+  },
+  {
+    "slug": "counting-the-jewish-people",
+    "en": "Counting the Jewish People",
+    "he": "מנין ישראל"
+  },
+  {
+    "slug": "ketubah",
+    "en": "Ketubah",
+    "he": "כתובה"
+  },
+  {
+    "slug": "shalosh-regalim",
+    "en": "Shalosh Regalim",
+    "he": "שלושה רגלים"
+  },
+  {
+    "slug": "interest",
+    "en": "Interest",
+    "he": "רבית"
+  },
+  {
+    "slug": "trials",
+    "en": "Trials",
+    "he": "משפט"
+  },
+  {
+    "slug": "laws",
+    "en": "Laws",
+    "he": "הלכה"
+  },
+  {
+    "slug": "fate-of-the-nations-of-the-world",
+    "en": "Fate of the Nations of the World",
+    "he": "אומות העולם לעתיד לבא"
+  },
+  {
+    "slug": "years",
+    "en": "Years",
+    "he": "שנה"
+  },
+  {
+    "slug": "court-sentences",
+    "en": "Court Sentences",
+    "he": "גזר דין"
+  },
+  {
+    "slug": "students-of-torah-and-methods-of-learning",
+    "en": "Students of Torah and Methods of Learning",
+    "he": "לוֹמְדֵי תּוֹרָה וְדַרְכֵי תַּלְמוּד"
+  },
+  {
+    "slug": "hate",
+    "en": "Hate",
+    "he": "שנאה"
+  },
+  {
+    "slug": "mouths",
+    "en": "Mouths",
+    "he": "פה"
+  },
+  {
+    "slug": "rabbi-mattia-b-heresh",
+    "en": "Rabbi Mattia b. Heresh",
+    "he": "רבי מתיא"
+  },
+  {
+    "slug": "rav-yosef-b-chiyya",
+    "en": "Rav Yosef [b. Chiyya]",
+    "he": "רב יוסף"
+  },
+  {
+    "slug": "munbaz",
+    "en": "Munbaz",
+    "he": "מונבז"
+  },
+  {
+    "slug": "havaya2",
+    "en": "Havaya",
+    "he": "הוי''ה"
+  },
+  {
+    "slug": "sexuality",
+    "en": "Sexuality",
+    "he": "מיניות"
+  },
+  {
+    "slug": "surrounding-light",
+    "en": "Surrounding Light",
+    "he": "אוֹר מַקִּיף"
+  },
+  {
+    "slug": "hair",
+    "en": "Hair",
+    "he": "שיער"
+  },
+  {
+    "slug": "bat-kol",
+    "en": "Bat Kol",
+    "he": "בת קול"
+  },
+  {
+    "slug": "vidui",
+    "en": "Viddui",
+    "he": "וידוי"
+  },
+  {
+    "slug": "chiuv-maaserot",
+    "en": "Chiuv Ma'aserot",
+    "he": "חיוב מעשרות"
+  },
+  {
+    "slug": "abraham-and-sodom",
+    "en": "Abraham and Sodom",
+    "he": "אברהם וסדום"
+  },
+  {
+    "slug": "service-of-the-levites",
+    "en": "Service of the Levites",
+    "he": "עבודת הלויים"
+  },
+  {
+    "slug": "kelippot",
+    "en": "Kelippot",
+    "he": "קְלִיפּוֹת"
+  },
+  {
+    "slug": "chachamim",
+    "en": "Chachamim",
+    "he": "חכמים"
+  },
+  {
+    "slug": "amnon",
+    "en": "Amnon",
+    "he": "אמנון"
+  },
+  {
+    "slug": "orphans",
+    "en": "Orphans",
+    "he": "יתום"
+  },
+  {
+    "slug": "generation-of-the-dispersion",
+    "en": "Generation of the Dispersion",
+    "he": "דור הפלגה"
+  },
+  {
+    "slug": "laws-of-dissociation-from-idolatry-and-its-worshippers",
+    "en": "Laws of Dissociation from Idolatry and its Worshippers",
+    "he": "הלכות היבדלות מעבודה זרה ומעובדיה"
+  },
+  {
+    "slug": "visions1",
+    "en": "Visions",
+    "he": "ראיה"
+  },
+  {
+    "slug": "minhag",
+    "en": "Minhag",
+    "he": "מנהג"
+  },
+  {
+    "slug": "monotheism",
+    "en": "Monotheism",
+    "he": "מונותאיזם"
+  },
+  {
+    "slug": "laws-of-substitution-of-offerings",
+    "en": "Laws of Substitution of Offerings",
+    "he": "דיני תמורה"
+  },
+  {
+    "slug": "laws-of-acceptance-of-testimony",
+    "en": "Laws of Acceptance of Testimony",
+    "he": "דיני קבלת העדות"
+  },
+  {
+    "slug": "laws-of-disqualified-sanctified-items",
+    "en": "Laws of Disqualified Sanctified Items",
+    "he": "דיני הקדשים שנפסלו"
+  },
+  {
+    "slug": "laws-of-guardianship",
+    "en": "Laws of Guardianship",
+    "he": "דיני שומרים"
+  },
+  {
+    "slug": "heresy",
+    "en": "Heresy",
+    "he": "מינות"
+  },
+  {
+    "slug": "money",
+    "en": "Money",
+    "he": "כסף"
+  },
+  {
+    "slug": "seir",
+    "en": "Seir",
+    "he": "שעיר"
+  },
+  {
+    "slug": "vessels",
+    "en": "Vessels",
+    "he": "כלי"
+  },
+  {
+    "slug": "laws-of-damages-from-animals",
+    "en": "Laws of Damages from Animals",
+    "he": "דיני נזקי הבהמה"
+  },
+  {
+    "slug": "parashat-shoftim",
+    "en": "Parashat Shoftim",
+    "he": "פרשת שופטים"
+  },
+  {
+    "slug": "magog",
+    "en": "Magog",
+    "he": "מגוג"
+  },
+  {
+    "slug": "naaman",
+    "en": "Na'aman",
+    "he": "נעמן"
+  },
+  {
+    "slug": "covenants",
+    "en": "Covenants",
+    "he": "בריתות"
+  },
+  {
+    "slug": "sins-of-the-jewish-people",
+    "en": "Sins of the Jewish People",
+    "he": "חטאי ישראל"
+  },
+  {
+    "slug": "levirate-marriage",
+    "en": "Yibbum",
+    "he": "יבום"
+  },
+  {
+    "slug": "laws-of-torah-study",
+    "en": "Laws of Torah Study",
+    "he": "הלכות לימוד תורה"
+  },
+  {
+    "slug": "datan-and-aviram",
+    "en": "Datan and Aviram",
+    "he": "דתן ואבירם"
+  },
+  {
+    "slug": "chametz",
+    "en": "Chametz",
+    "he": "חמץ"
+  },
+  {
+    "slug": "visiting-the-sick",
+    "en": "Visiting the Sick",
+    "he": "ביקור חולים"
+  },
+  {
+    "slug": "goliath",
+    "en": "Goliath",
+    "he": "גלית"
+  },
+  {
+    "slug": "inheritance",
+    "en": "Inheritance",
+    "he": "ירושה"
+  },
+  {
+    "slug": "jubilee",
+    "en": "Jubilee",
+    "he": "יובל"
+  },
+  {
+    "slug": "laws-of-disqualifications-of-thought",
+    "en": "Laws of Disqualifications of Thought",
+    "he": "דיני פסולי המחשבה"
+  },
+  {
+    "slug": "destruction-of-the-temple",
+    "en": "Destruction of the Temple",
+    "he": "חורבן בית המקדש"
+  },
+  {
+    "slug": "the-throne-of-glory",
+    "en": "The Throne of Glory",
+    "he": "כסא הכבוד"
+  },
+  {
+    "slug": "nakdimon",
+    "en": "Nakdimon",
+    "he": "נקדימון"
+  },
+  {
+    "slug": "mincha-(קרבן)",
+    "en": "Mincha",
+    "he": "קרבן מנחה"
+  },
+  {
+    "slug": "abraham-in-ur-kasdim-and-his-departure-from-there",
+    "en": "Abraham in Ur Kasdim and his Departure from There",
+    "he": "אברהם באור כשדים ויציאתו משם"
+  },
+  {
+    "slug": "mincha",
+    "en": "Mincha",
+    "he": "תפילת מנחה"
+  },
+  {
+    "slug": "amen",
+    "en": "Amen",
+    "he": "אמן"
+  },
+  {
+    "slug": "horses",
+    "en": "Horses",
+    "he": "סוס"
+  },
+  {
+    "slug": "yehudah-b-tabbai",
+    "en": "Yehudah b. Tabbai",
+    "he": "רבי יהודה בן טבאי"
+  },
+  {
+    "slug": "debt-law",
+    "en": "Debt Law",
+    "he": "הלכות מלווה ולווה"
+  },
+  {
+    "slug": "the-moon",
+    "en": "The Moon",
+    "he": "לבנה"
+  },
+  {
+    "slug": "rabbi-bannaah",
+    "en": "Rabbi Banna'ah",
+    "he": "רבי בנאה"
+  },
+  {
+    "slug": "laws-of-gifts-from-someone-gravely-ill",
+    "en": "Laws of Gifts from Someone Gravely Ill",
+    "he": "דיני מתנת שכיב מרע"
+  },
+  {
+    "slug": "cities-of-refuge",
+    "en": "Cities of Refuge",
+    "he": "ערי מקלט"
+  },
+  {
+    "slug": "mamzer",
+    "en": "Mamzer",
+    "he": "ממזר"
+  },
+  {
+    "slug": "noah-and-the-ark",
+    "en": "Noah and the Ark",
+    "he": "תיבת נח"
+  },
+  {
+    "slug": "questions",
+    "en": "Questions",
+    "he": "שאלות"
+  },
+  {
+    "slug": "merit-of-the-patriarchs",
+    "en": "Merit of the Patriarchs",
+    "he": "זכות אבות"
+  },
+  {
+    "slug": "yannai",
+    "en": "King Yannai",
+    "he": "ינאי המלך"
+  },
+  {
+    "slug": "torah-reading",
+    "en": "Torah Reading",
+    "he": "קריאת התורה"
+  },
+  {
+    "slug": "students",
+    "en": "Students",
+    "he": "תלמיד"
+  },
+  {
+    "slug": "balaams-prophecy",
+    "en": "Balaam's Prophecy",
+    "he": "נבואת בלעם"
+  },
+  {
+    "slug": "elisha-ben-abuya",
+    "en": "Elisha ben Abuyah",
+    "he": "אלישע בן אבויה"
+  },
+  {
+    "slug": "courage",
+    "en": "Courage",
+    "he": "אומץ"
+  },
+  {
+    "slug": "love-of-god1",
+    "en": "Love of God",
+    "he": "אהבת ה'"
+  },
+  {
+    "slug": "the-priestly-service",
+    "en": "The Priestly Service",
+    "he": "עבודת הכהנים"
+  },
+  {
+    "slug": "wanting-want",
+    "en": "Wanting, Want",
+    "he": "רצה רצון"
+  },
+  {
+    "slug": "cities",
+    "en": "Cities",
+    "he": "עיר"
+  },
+  {
+    "slug": "laws-of-the-sacrifice-of-the-paschal-offering",
+    "en": "Laws of the Sacrifice of the Paschal Offering",
+    "he": "דיני הקרבת הפסח"
+  },
+  {
+    "slug": "types-of-oaths-and-their-specifications",
+    "en": "Types of Oaths and their Specifications",
+    "he": "מיני השבועות וגדריהן"
+  },
+  {
+    "slug": "disputes",
+    "en": "Disputes",
+    "he": "ריב"
+  },
+  {
+    "slug": "destruction-of-the-first-temple",
+    "en": "Destruction of the First Temple",
+    "he": "חורבן בית ראשון"
+  },
+  {
+    "slug": "creation-of-heavens-and-earth",
+    "en": "Creation of Heavens and Earth",
+    "he": "בריאת שמים וארץ"
+  },
+  {
+    "slug": "conversion",
+    "en": "Converts and Conversion",
+    "he": "גיור"
+  },
+  {
+    "slug": "acquisitions",
+    "en": "Acquisitions",
+    "he": "קנין"
+  },
+  {
+    "slug": "sin-offerings",
+    "en": "Sin-offerings",
+    "he": "קרבן חטאת"
+  },
+  {
+    "slug": "laws-of-tefillin",
+    "en": "Laws of Tefillin",
+    "he": "הלכות תפילין"
+  },
+  {
+    "slug": "babylonian-exile",
+    "en": "Babylonian Exile",
+    "he": "גלות בבל"
+  },
+  {
+    "slug": "impulses",
+    "en": "Impulses",
+    "he": "יצרים"
+  },
+  {
+    "slug": "jesus",
+    "en": "Jesus",
+    "he": "ישו"
+  },
+  {
+    "slug": "ammon",
+    "en": "Ammon",
+    "he": "עמון"
+  },
+  {
+    "slug": "revelation",
+    "en": "Revelation",
+    "he": "התגלות"
+  },
+  {
+    "slug": "sadness",
+    "en": "Sadness",
+    "he": "עצב"
+  },
+  {
+    "slug": "proper-moral-and-hygienic-conduct",
+    "en": "Proper Moral and Hygienic Conduct",
+    "he": "ההתנהגות הראויה בדעות ובבריאות"
+  },
+  {
+    "slug": "adoniah",
+    "en": "Adoniah",
+    "he": "אדוניה"
+  },
+  {
+    "slug": "generations",
+    "en": "Generations",
+    "he": "דור"
+  },
+  {
+    "slug": "lineage",
+    "en": "Lineage",
+    "he": "יוחסין"
+  },
+  {
+    "slug": "blind-people",
+    "en": "Blind People",
+    "he": "עוור"
+  },
+  {
+    "slug": "pharaohs-daughter",
+    "en": "Pharaoh's Daughter",
+    "he": "בתיה"
+  },
+  {
+    "slug": "asking-of-welfare",
+    "en": "Asking of Welfare",
+    "he": "שאילת שלום"
+  },
+  {
+    "slug": "yehudah-b-tema",
+    "en": "Yehudah b. Tema",
+    "he": "יהודה בן תימא"
+  },
+  {
+    "slug": "lending",
+    "en": "Lending",
+    "he": "הלואה"
+  },
+  {
+    "slug": "obadiah",
+    "en": "Obadiah",
+    "he": "עובדיה"
+  },
+  {
+    "slug": "milk",
+    "en": "Milk",
+    "he": "חָלָב"
+  },
+  {
+    "slug": "jacob-and-joseph",
+    "en": "Jacob and Joseph",
+    "he": "יעקב ויוסף"
+  },
+  {
+    "slug": "dinei-chametz",
+    "en": "Dinei Chametz",
+    "he": "דיני חמץ"
+  },
+  {
+    "slug": "parashat-vayera",
+    "en": "Parashat Vayera",
+    "he": "פרשת וירא"
+  },
+  {
+    "slug": "laws-of-cancellation-of-a-transaction-and-the-sellers-responsibility",
+    "en": "Laws of Cancellation of a Transaction and the Seller's Responsibility",
+    "he": "דיני ביטול עסקה ואחריות המוכר עליה"
+  },
+  {
+    "slug": "power",
+    "en": "Power",
+    "he": "כוח"
+  },
+  {
+    "slug": "haftarah",
+    "en": "Haftarah",
+    "he": "הפטרה"
+  },
+  {
+    "slug": "pillar-of-cloud",
+    "en": "Pillar of Cloud",
+    "he": "עמוד ענן"
+  },
+  {
+    "slug": "apikoros",
+    "en": "Apikoros",
+    "he": "אפיקורוס"
+  },
+  {
+    "slug": "yehu",
+    "en": "Yehu",
+    "he": "יהוא"
+  },
+  {
+    "slug": "laws-of-fasts",
+    "en": "Laws of Fasts",
+    "he": "הלכות תעניות"
+  },
+  {
+    "slug": "anah",
+    "en": "Anah",
+    "he": "ענה בן צבעון"
+  },
+  {
+    "slug": "laws-of-shabbat",
+    "en": "Laws of Shabbat",
+    "he": "הלכות שבת"
+  },
+  {
+    "slug": "gods-knowledge",
+    "en": "God's Knowledge",
+    "he": "ידיעה אלקית"
+  },
+  {
+    "slug": "nimrod",
+    "en": "Nimrod",
+    "he": "נמרוד"
+  },
+  {
+    "slug": "creation-of-light-and-luminaires",
+    "en": "Creation of Light and Luminaires",
+    "he": "בריאת האור והמאורות"
+  },
+  {
+    "slug": "wild-animals",
+    "en": "Wild Animals",
+    "he": "חיה"
+  },
+  {
+    "slug": "moses-and-pharaoh",
+    "en": "Moses and Pharaoh",
+    "he": "משה ופרעה"
+  },
+  {
+    "slug": "daughters-of-zelophehad",
+    "en": "Daughters of Tzelofchad",
+    "he": "בנות צלפחד"
+  },
+  {
+    "slug": "rabbi-elazar-b-pedat",
+    "en": "Rabbi Elazar b. Pedat",
+    "he": "רבי אלעזר בן פדת"
+  },
+  {
+    "slug": "possession-of-the-land-of-israel",
+    "en": "Possession of the Land of Israel",
+    "he": "ירושת ארץ ישראל"
+  },
+  {
+    "slug": "olives",
+    "en": "Olives",
+    "he": "זיתים"
+  },
+  {
+    "slug": "deserts",
+    "en": "Desert",
+    "he": "מדבר"
+  },
+  {
+    "slug": "abraham-and-lot",
+    "en": "Abraham and Lot",
+    "he": "אברהם ולוט"
+  },
+  {
+    "slug": "deborah",
+    "en": "Deborah",
+    "he": "דבורה"
+  },
+  {
+    "slug": "kiddush-hachodesh",
+    "en": "Kiddush Hachodesh",
+    "he": "קידוש החודש"
+  },
+  {
+    "slug": "returning-light1",
+    "en": "Returning light",
+    "he": "או''ח"
+  },
+  {
+    "slug": "tabernacles-making",
+    "en": "Constructing the Tabernacle",
+    "he": "מעשה המשכן"
+  },
+  {
+    "slug": "naaseh-venishma",
+    "en": "Naaseh Venishma",
+    "he": "נעשה ונשמע"
+  },
+  {
+    "slug": "jacob-and-the-angel",
+    "en": "Jacob and the Angel",
+    "he": "יעקב והמלאך"
+  },
+  {
+    "slug": "laws-of-the-impurity-of-a-metsora-and-his-purification",
+    "en": "Laws of the Impurity of a Metsora and His Purification",
+    "he": "דיני טומאת המצורע וטהרתו"
+  },
+  {
+    "slug": "parashat-lech-lecha",
+    "en": "Parashat Lech Lecha",
+    "he": "פרשת לך לך"
+  },
+  {
+    "slug": "showbread",
+    "en": "Showbread",
+    "he": "לחם הפנים"
+  },
+  {
+    "slug": "beginning",
+    "en": "Beginning",
+    "he": "התחלה"
+  },
+  {
+    "slug": "joseph-and-potiphars-wife",
+    "en": "Joseph and Potiphar's Wife",
+    "he": "יוסף ואשת פוטיפר"
+  },
+  {
+    "slug": "siblings",
+    "en": "Siblings",
+    "he": "אחים"
+  },
+  {
+    "slug": "potiphar",
+    "en": "Potiphar",
+    "he": "פוטיפר"
+  },
+  {
+    "slug": "mouth",
+    "en": "Mouth",
+    "he": "פֶּה"
+  },
+  {
+    "slug": "mouth1",
+    "en": "Mouth",
+    "he": "פֶּה"
+  },
+  {
+    "slug": "gifts-to-the-poor",
+    "en": "Gifts to the Poor",
+    "he": "מתנות עניים"
+  },
+  {
+    "slug": "menasseh-(king-of-judah)",
+    "en": "Menashe",
+    "he": "המלך מנשה"
+  },
+  {
+    "slug": "tikkun",
+    "en": "Tikkun",
+    "he": "תיקון"
+  },
+  {
+    "slug": "amasa",
+    "en": "Amasa",
+    "he": "עמשא"
+  },
+  {
+    "slug": "shamaya-and-avtalyon",
+    "en": "Shamaya and Avtalyon",
+    "he": "שמעיה ואבטליון"
+  },
+  {
+    "slug": "strength",
+    "en": "Strength",
+    "he": "גבורה"
+  },
+  {
+    "slug": "rivers",
+    "en": "Rivers",
+    "he": "נהר"
+  },
+  {
+    "slug": "lighting-of-the-menorah",
+    "en": "Lighting of the Menorah",
+    "he": "הדלקת המנורה"
+  },
+  {
+    "slug": "haya1",
+    "en": "ḥaya",
+    "he": "חיה"
+  },
+  {
+    "slug": "abihu",
+    "en": "Abihu",
+    "he": "אביהוא"
+  },
+  {
+    "slug": "jewish-unity",
+    "en": "Jewish Unity",
+    "he": "אחדות ישראל"
+  },
+  {
+    "slug": "kal-vechomer",
+    "en": "Kal VaChomer",
+    "he": "קל וחומר"
+  },
+  {
+    "slug": "superstitions1",
+    "en": "Superstitions",
+    "he": "אמונה טפלה"
+  },
+  {
+    "slug": "michael",
+    "en": "Michael",
+    "he": "מיכאל"
+  },
+  {
+    "slug": "laws-of-engagement-of-workers",
+    "en": "Laws of Engagement of Workers",
+    "he": "דיני שכירות פועלים"
+  },
+  {
+    "slug": "navot",
+    "en": "Navot",
+    "he": "נבות"
+  },
+  {
+    "slug": "impurity-from-a-dead-body",
+    "en": "Impurity from a Dead Body",
+    "he": "טומאת מת"
+  },
+  {
+    "slug": "betzalel",
+    "en": "Betzalel",
+    "he": "בצלאל"
+  },
+  {
+    "slug": "covenant-of-salt",
+    "en": "Covenant of Salt",
+    "he": "ברית מלח"
+  },
+  {
+    "slug": "well-in-the-desert",
+    "en": "Well in the Desert",
+    "he": "הבאר במדבר"
+  },
+  {
+    "slug": "eulogies",
+    "en": "Eulogies",
+    "he": "הספד"
+  },
+  {
+    "slug": "ban",
+    "en": "Ban",
+    "he": "ב\"ן"
+  },
+  {
+    "slug": "laws-of-retraction-of-a-transaction-before-its-completion",
+    "en": "Laws of Retraction of a Transaction before its Completion",
+    "he": "דיני חזרה מעסקה לפני שנשלמה"
+  },
+  {
+    "slug": "laws-of-the-sanctity-of-the-temple",
+    "en": "Laws of the Sanctity of the Temple",
+    "he": "הלכות קדושת המקדש"
+  },
+  {
+    "slug": "efron",
+    "en": "Efron",
+    "he": "עפרון"
+  },
+  {
+    "slug": "laws-of-misappropriation-of-items-sanctified-for-temple-maintenance",
+    "en": "Laws of Misappropriation of Items Sanctified for Temple Maintenance",
+    "he": "דיני מעילה בקדשי בדק הבית"
+  },
+  {
+    "slug": "ethics",
+    "en": "Ethics",
+    "he": "אתיקה"
+  },
+  {
+    "slug": "laws-of-litigant-oaths",
+    "en": "Laws of Litigant Oaths",
+    "he": "דיני שבועות בעלי הדין"
+  },
+  {
+    "slug": "jacobs-dream",
+    "en": "Jacob's Dream",
+    "he": "חלום יעקב"
+  },
+  {
+    "slug": "welcoming-guests",
+    "en": "Welcoming Guests",
+    "he": "הכנסת אורחים"
+  },
+  {
+    "slug": "blood",
+    "en": "Blood",
+    "he": "דם"
+  },
+  {
+    "slug": "manoah",
+    "en": "Manoah",
+    "he": "מנוח"
+  },
+  {
+    "slug": "gifts-to-the-priests",
+    "en": "Gifts to the Priests",
+    "he": "מתנות כהונה"
+  },
+  {
+    "slug": "teachers",
+    "en": "Teachers",
+    "he": "מלמד"
+  },
+  {
+    "slug": "woe",
+    "en": "Woe",
+    "he": "אוי"
+  },
+  {
+    "slug": "counsel",
+    "en": "Counsel",
+    "he": "עצה"
+  },
+  {
+    "slug": "borrowing-the-property-during-the-exodus-from-egypt",
+    "en": "Borrowing the Property during the Exodus from Egypt",
+    "he": "שאלת הרכוש ביציאת מצרים"
+  },
+  {
+    "slug": "binding-of-isaac",
+    "en": "Binding of Isaac",
+    "he": "עקידה"
+  },
+  {
+    "slug": "acceptance-of-nazarite-vows-and-its-duration",
+    "en": "Acceptance of Nazarite Vows and its Duration",
+    "he": "קבלת הנזירות ומשכה"
+  },
+  {
+    "slug": "abimelech-the-son-of-jerubaal",
+    "en": "Abimelech",
+    "he": "אבימלך"
+  },
+  {
+    "slug": "physicality",
+    "en": "Incorporeality of God",
+    "he": "שלילת גשמות האל"
+  },
+  {
+    "slug": "talk-and-speech-of-god",
+    "en": "Talk and Speech of God",
+    "he": "דבור ואמירה של אלקים"
+  },
+  {
+    "slug": "body3",
+    "en": "Body",
+    "he": "גוף"
+  },
+  {
+    "slug": "olam-hazeh",
+    "en": "Olam Hazeh",
+    "he": "עולם הזה"
+  },
+  {
+    "slug": "leviathan",
+    "en": "Leviathan",
+    "he": "לויתן"
+  },
+  {
+    "slug": "nadav",
+    "en": "Nadav",
+    "he": "נדב"
+  },
+  {
+    "slug": "aarons-sin",
+    "en": "Aaron and the Golden Calf",
+    "he": "אהרן וחטא העגל"
+  },
+  {
+    "slug": "laws-of-property-damage",
+    "en": "Laws of Property Damage",
+    "he": "דיני מזיק ממון"
+  },
+  {
+    "slug": "asher",
+    "en": "Asher",
+    "he": "אשר"
+  },
+  {
+    "slug": "yochanan-ben-bag-bag",
+    "en": "[Yochanan] Ben Bag Bag",
+    "he": "יוחנן בן בג בג"
+  },
+  {
+    "slug": "the-menorah",
+    "en": "The Temple Menorah",
+    "he": "המנורה במקדש"
+  },
+  {
+    "slug": "shabbat-meals",
+    "en": "Shabbat Meals",
+    "he": "סעודת שבת"
+  },
+  {
+    "slug": "annihilating-the-memory-of-amalek",
+    "en": "Annihilating the Memory of Amalek",
+    "he": "מחיית זכר עמלק"
+  },
+  {
+    "slug": "effect-of-sin",
+    "en": "Effect of Sin",
+    "he": "פעולת החטא"
+  },
+  {
+    "slug": "ruah",
+    "en": "Ruaḥ",
+    "he": "רוּחַ"
+  },
+  {
+    "slug": "asiya2",
+    "en": "Asiya",
+    "he": "עֲשִׂיָּה"
+  },
+  {
+    "slug": "the-soul-and-the-body",
+    "en": "The Soul and the Body",
+    "he": "נשמה וגוף"
+  },
+  {
+    "slug": "human-dignity",
+    "en": "Human Dignity",
+    "he": "כבוד אנושי"
+  },
+  {
+    "slug": "alexander",
+    "en": "Alexander the Great",
+    "he": "אלכסנדר"
+  },
+  {
+    "slug": "meat-in-the-sinai-desert",
+    "en": "Meat in the Sinai Desert",
+    "he": "הבשר במדבר סיני"
+  },
+  {
+    "slug": "praise",
+    "en": "Praise",
+    "he": "שבח"
+  },
+  {
+    "slug": "mother",
+    "en": "Mother",
+    "he": "אמא"
+  },
+  {
+    "slug": "jacob-and-laban",
+    "en": "Jacob and Laban",
+    "he": "יעקב ולבן"
+  },
+  {
+    "slug": "intention-and-interpretation-of-vows",
+    "en": "Intention and Interpretation of Vows",
+    "he": "כוונה ופרשנות בנדרים"
+  },
+  {
+    "slug": "daughters",
+    "en": "Daughters",
+    "he": "בת"
+  },
+  {
+    "slug": "metsora",
+    "en": "Metsora",
+    "he": "מצורע"
+  },
+  {
+    "slug": "kiddush",
+    "en": "Kiddush",
+    "he": "קידוש"
+  },
+  {
+    "slug": "one-who-causes-damage",
+    "en": "One who Causes Damage",
+    "he": "מזיק"
+  },
+  {
+    "slug": "laws-of-objects-of-foreign-worship",
+    "en": "Laws of Objects of Foreign Worship",
+    "he": "דיני חפצי עבודה זרה"
+  },
+  {
+    "slug": "partnership",
+    "en": "Partnership",
+    "he": "שותפות"
+  },
+  {
+    "slug": "laws-of-contracting-impurity-from-a-corpse",
+    "en": "Laws of Contracting Impurity from a Corpse",
+    "he": "דיני ההיטמאות במת"
+  },
+  {
+    "slug": "being-fruitful-and-multiplying",
+    "en": "Being Fruitful and Multiplying",
+    "he": "פריה ורביה"
+  },
+  {
+    "slug": "laws-of-interest-on-loans-and-in-commerce",
+    "en": "Laws of Interest on Loans and in Commerce",
+    "he": "דיני ריבית בהלוואה ובמסחר"
+  },
+  {
+    "slug": "gates",
+    "en": "Gates",
+    "he": "שער"
+  },
+  {
+    "slug": "parables",
+    "en": "Parables",
+    "he": "משל"
+  },
+  {
+    "slug": "laws-of-those-disqualified-from-testimony",
+    "en": "Laws of Those Disqualified from Testimony",
+    "he": "דיני פסולי עדות"
+  },
+  {
+    "slug": "parashat-naso",
+    "en": "Parashat Naso",
+    "he": "פרשת נשא"
+  },
+  {
+    "slug": "gedaliah",
+    "en": "Gedaliah",
+    "he": "גדליה"
+  },
+  {
+    "slug": "excision",
+    "en": "Excision",
+    "he": "כרת"
+  },
+  {
+    "slug": "male",
+    "en": "Male",
+    "he": "זכר"
+  },
+  {
+    "slug": "belshatzar",
+    "en": "Belshatzar",
+    "he": "בלשאצר"
+  },
+  {
+    "slug": "elul",
+    "en": "Elul",
+    "he": "אלול"
+  },
+  {
+    "slug": "parashat-shelach",
+    "en": "Parashat Shelach",
+    "he": "שלח לך"
+  },
+  {
+    "slug": "laws-of-hekdesh-and-cherem",
+    "en": "Laws of Hekdesh and Cherem",
+    "he": "דיני הקדש וחרם"
+  },
+  {
+    "slug": "parashat-toldot",
+    "en": "Parashat Toldot",
+    "he": "פרשת תולדות"
+  },
+  {
+    "slug": "beit-din",
+    "en": "Beit Din",
+    "he": "בית דין"
+  },
+  {
+    "slug": "shifrah-and-puah1",
+    "en": "Shifrah and Puah",
+    "he": "שפרה ופועה"
+  },
+  {
+    "slug": "zion",
+    "en": "Zion",
+    "he": "ציון"
+  },
+  {
+    "slug": "bava-b-buta",
+    "en": "Bava b. Buta",
+    "he": "בבא בן בוטא"
+  },
+  {
+    "slug": "brazenness",
+    "en": "Brazenness",
+    "he": "עזות"
+  },
+  {
+    "slug": "days-of-cordoning",
+    "en": "Days of Cordoning",
+    "he": "ימי הגבלה"
+  },
+  {
+    "slug": "serah-the-daughter-of-asher",
+    "en": "Serah the Daughter of Asher",
+    "he": "סרח בת אשר"
+  },
+  {
+    "slug": "conditions",
+    "en": "Conditions",
+    "he": "תנאי"
+  },
+  {
+    "slug": "disgracing",
+    "en": "Disgracing",
+    "he": "בזה"
+  },
+  {
+    "slug": "bountiful-flows",
+    "en": "Bountiful Flows",
+    "he": "שפע"
+  },
+  {
+    "slug": "laws-of-false-witnesses-and-colluding-witnesses",
+    "en": "Laws of False Witnesses and Colluding Witnesses",
+    "he": "דיני עדי שקר ועדים זוממים"
+  },
+  {
+    "slug": "laws-of-meal-offering-disqualifications",
+    "en": "Laws of Meal Offering Disqualifications",
+    "he": "דיני פסולי המנחה"
+  },
+  {
+    "slug": "tekhelet",
+    "en": "Tekhelet",
+    "he": "תכלת"
+  },
+  {
+    "slug": "judith",
+    "en": "Judith",
+    "he": "יהודית"
+  },
+  {
+    "slug": "onkelos",
+    "en": "Onkelos",
+    "he": "אונקלוס"
+  },
+  {
+    "slug": "roosters",
+    "en": "Roosters",
+    "he": "תרנגול"
+  },
+  {
+    "slug": "laws-of-charity",
+    "en": "Laws of Charity",
+    "he": "הלכות צדקה"
+  },
+  {
+    "slug": "the-seven-nations",
+    "en": "The Seven Nations",
+    "he": "שבעת העממים"
+  },
+  {
+    "slug": "the-ten-tribes",
+    "en": "The Ten Tribes",
+    "he": "עשרת השבטים"
+  },
+  {
+    "slug": "itamar",
+    "en": "Itamar",
+    "he": "איתמר"
+  },
+  {
+    "slug": "winds",
+    "en": "Winds",
+    "he": "רוח"
+  },
+  {
+    "slug": "parashat-shemini",
+    "en": "Parashat Shemini",
+    "he": "פרשת שמיני"
+  },
+  {
+    "slug": "lashes-(מלקות)",
+    "en": "Lashes",
+    "he": "מלקות"
+  },
+  {
+    "slug": "principle-concepts-of-marital-law",
+    "en": "Principle Concepts of Marital Law",
+    "he": "מושגים עקרוניים בהלכות אישות"
+  },
+  {
+    "slug": "sin-of-peor",
+    "en": "Sin of Peor",
+    "he": "חטא פעור"
+  },
+  {
+    "slug": "parashat-tazria",
+    "en": "Parashat Tazria",
+    "he": "פרשת תזריע"
+  },
+  {
+    "slug": "alcohol",
+    "en": "Alcohol",
+    "he": "אלכוהול"
+  },
+  {
+    "slug": "measurements",
+    "en": "Measurements",
+    "he": "מידה"
+  },
+  {
+    "slug": "planting",
+    "en": "Planting",
+    "he": "שתילה"
+  },
+  {
+    "slug": "women-in-tanakh1",
+    "en": "Women in Tanakh",
+    "he": "נשים בתנ\"ך"
+  },
+  {
+    "slug": "eagles",
+    "en": "Eagles",
+    "he": "נשר"
+  },
+  {
+    "slug": "the-ark-cover-and-the-cherubs",
+    "en": "The Ark Cover and the Cherubs",
+    "he": "ארון כפורת וכרובים"
+  },
+  {
+    "slug": "hasmoneans",
+    "en": "Hasmoneans",
+    "he": "חשמונאים"
+  },
+  {
+    "slug": "beniyahu",
+    "en": "Beniyahu",
+    "he": "בניהו"
+  },
+  {
+    "slug": "covenant-with-israel",
+    "en": "Covenant with Israel",
+    "he": "ברית ישראל"
+  },
+  {
+    "slug": "chananiah-mishael-and-azariah",
+    "en": "Chananiah, Mishael and Azariah",
+    "he": "חנניה מישאל ועזריה"
+  },
+  {
+    "slug": "klipah",
+    "en": "Klipah",
+    "he": "קלפה"
+  },
+  {
+    "slug": "heretics",
+    "en": "Heretics",
+    "he": "כופרים"
+  }
+]
