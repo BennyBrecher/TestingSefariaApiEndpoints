@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mareh Makom – Library Explorer</title>
+  <link rel="stylesheet" href="/static/library_boxes.css" />
+</head>
+<body>
+  <header class="mm-header">
+    <div class="mm-header-inner">
+      <div>
+        <h1>Mareh Makom</h1>
+        <span class="mm-header-sub">Library Explorer</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="mm-shell">
+    <section class="mm-explorer">
+      <!-- LEFT: box navigation (library + inside-book) -->
+      <div class="mm-explorer-left">
+        <div class="mm-topbar">
+          <button id="backBtn" class="mm-back-btn" disabled>&larr; Back</button>
+          <nav id="breadcrumb" class="mm-breadcrumb">
+            <span class="mm-crumb mm-crumb-active">Library</span>
+          </nav>
+        </div>
+
+        <div id="grid" class="mm-grid">
+          <!-- boxes go here -->
+        </div>
+
+        <div class="mm-bottombar">
+          <span id="selectionInfo" class="mm-selection-info">
+            Browse the boxes to choose a text.
+          </span>
+          <button id="useSelectionBtn" class="mm-use-btn" disabled>
+            Use this in Mareh Makom
+          </button>
+        </div>
+      </div>
+
+      <!-- RIGHT: ref info panel -->
+      <div class="mm-explorer-right">
+        <div class="mm-ref-panel" id="refPanel">
+          <h3>Ref details</h3>
+          <p class="mm-selection-info">
+            Click a lowest-level box (chapter / halakha / daf, or a book with no further structure)
+            to see its text, commentaries, topics, and related content here.
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    // ---------------- global state ----------------
+    let libraryTree = null;       // from /library/tree
+    let pathNodes = [];           // library categories path (no root)
+    let navMode = "library";      // "library" | "book"
+    let currentBookTitle = null;  // title string when in book mode
+    let bookStruct = null;        // raw /library/book-structure response
+    let bookNodeStack = [];       // stack of schema nodes when inside book
+    let selectedRef = null;       // string ref for deepest click
+
+    // ---------------- helpers ----------------
+
+    function currentLibraryNode() {
+      if (!pathNodes.length) return libraryTree;
+      return pathNodes[pathNodes.length - 1];
+    }
+
+    function buildPathString(pathArray) {
+      const p = pathArray || [];
+      return p.join(" » ");
+    }
+
+    function fadeSwapGrid(renderFn) {
+      const grid = document.getElementById("grid");
+      grid.classList.remove("mm-grid-fade-in");
+      grid.classList.add("mm-grid-fade-out");
+      setTimeout(() => {
+        grid.innerHTML = "";
+        renderFn(grid);
+        grid.classList.remove("mm-grid-fade-out");
+        grid.classList.add("mm-grid-fade-in");
+        setTimeout(() => grid.classList.remove("mm-grid-fade-in"), 200);
+      }, 150);
+    }
+
+    function updateBackButton() {
+      const backBtn = document.getElementById("backBtn");
+      if (navMode === "book") {
+        backBtn.disabled = false;
+      } else {
+        backBtn.disabled = pathNodes.length === 0;
+      }
+    }
+
+    // ---------------- breadcrumb ----------------
+
+    function renderBreadcrumb() {
+      const bc = document.getElementById("breadcrumb");
+      bc.innerHTML = "";
+
+      // Root
+      const rootSpan = document.createElement("span");
+      rootSpan.textContent = "Library";
+      rootSpan.className = "mm-crumb" + (pathNodes.length === 0 && navMode === "library" ? " mm-crumb-active" : "");
+      rootSpan.onclick = () => {
+        if (!pathNodes.length && navMode === "library") return;
+        pathNodes = [];
+        exitBookMode();
+        renderBreadcrumb();
+        renderGrid();
+        updateSelection();
+      };
+      bc.appendChild(rootSpan);
+
+      // Library path
+      pathNodes.forEach((node, idx) => {
+        const sep = document.createElement("span");
+        sep.textContent = "›";
+        sep.className = "mm-crumb-sep";
+        bc.appendChild(sep);
+
+        const span = document.createElement("span");
+        span.textContent = node.title;
+        const isLastLibrary = (idx === pathNodes.length - 1 && navMode === "library");
+        span.className = "mm-crumb" + (isLastLibrary ? " mm-crumb-active" : "");
+        span.onclick = () => {
+          pathNodes = pathNodes.slice(0, idx + 1);
+          exitBookMode();
+          renderBreadcrumb();
+          renderGrid();
+          updateSelection();
+        };
+        bc.appendChild(span);
+      });
+
+      // Inside-book crumb
+      if (navMode === "book" && currentBookTitle) {
+        const sep = document.createElement("span");
+        sep.textContent = "›";
+        sep.className = "mm-crumb-sep";
+        bc.appendChild(sep);
+
+        const span = document.createElement("span");
+        span.textContent = currentBookTitle;
+        span.className = "mm-crumb mm-crumb-active";
+        span.onclick = () => {
+          if (!bookStruct) return;
+          bookNodeStack = [bookStruct.schema || bookStruct];
+          renderBreadcrumb();
+          renderGrid();
+          updateSelection();
+        };
+        bc.appendChild(span);
+      }
+    }
+
+    // ---------------- library mode (categories + books) ----------------
+
+    function renderLibraryGrid() {
+      const node = currentLibraryNode();
+      const children = node.children || [];
+
+      fadeSwapGrid((grid) => {
+        if (!children.length) {
+          const empty = document.createElement("div");
+          empty.className = "mm-empty";
+          empty.textContent = "No further subdivisions here.";
+          grid.appendChild(empty);
+          return;
+        }
+
+        const cats = children.filter(ch => ch.type === "category");
+        const books = children.filter(ch => ch.type === "book");
+
+        cats.forEach(cat => {
+          const card = document.createElement("div");
+          card.className = "mm-box mm-box-cat";
+          card.innerHTML = `
+            <div class="mm-box-title">${cat.title}</div>
+            ${cat.heTitle ? `<div class="mm-box-he">${cat.heTitle}</div>` : ""}
+            <div class="mm-box-meta">Category</div>
+          `;
+          card.onclick = () => {
+            pathNodes.push(cat);
+            exitBookMode();
+            renderBreadcrumb();
+            renderGrid();
+            updateSelection();
+          };
+          grid.appendChild(card);
+        });
+
+        books.forEach(book => {
+          const card = document.createElement("div");
+          card.className = "mm-box mm-box-book";
+          card.innerHTML = `
+            <div class="mm-box-title">${book.title}</div>
+            ${book.heTitle ? `<div class="mm-box-he">${book.heTitle}</div>` : ""}
+            <div class="mm-box-meta">${buildPathString(book.path)}</div>
+          `;
+          card.onclick = () => {
+            // dive inside the book structure
+            pathNodes.push(book);
+            enterBookMode(book.title);
+          };
+          grid.appendChild(card);
+        });
+      });
+    }
+
+    // ---------------- book mode (inside one book) ----------------
+
+    async function enterBookMode(bookTitle) {
+      navMode = "book";
+      currentBookTitle = bookTitle;
+      selectedRef = null;
+      updateBackButton();
+
+      // fetch book structure if needed
+      if (!bookStruct || bookStruct.title !== bookTitle) {
+        const res = await fetch("/library/book-structure/" + encodeURIComponent(bookTitle));
+        const data = await res.json();
+        bookStruct = { ...data, title: bookTitle };
+      }
+
+      const schema = bookStruct.schema || bookStruct;
+      bookNodeStack = [schema];
+
+      // If Sefaria exposes NO deeper nodes/refs, treat the book itself as the ref
+      const rootChildren = buildChildrenFromSchemaNode(schema);
+      if (!rootChildren.length) {
+        const ref = schema.ref || bookTitle;
+        selectedRef = ref;
+        renderBreadcrumb();
+        renderBookGrid();  // will show “no deeper structure” message
+        updateSelection();
+        loadRefInfo(ref);  // right panel gets filled
+        return;
+      }
+
+      renderBreadcrumb();
+      renderBookGrid();
+      updateSelection();
+    }
+
+    function exitBookMode() {
+      navMode = "library";
+      currentBookTitle = null;
+      bookStruct = null;
+      bookNodeStack = [];
+      selectedRef = null;
+      updateBackButton();
+    }
+
+    function currentBookNode() {
+      if (!bookNodeStack.length) return null;
+      return bookNodeStack[bookNodeStack.length - 1];
+    }
+
+    function nodeLabel(node, index) {
+      if (node.title) return node.title;
+      if (node.enTitle) return node.enTitle;
+      if (node.sharedTitle) return node.sharedTitle;
+      return `${index + 1}`;
+    }
+
+    function buildChildrenFromSchemaNode(schemaNode) {
+      const kids = [];
+
+      if (Array.isArray(schemaNode.nodes) && schemaNode.nodes.length) {
+        schemaNode.nodes.forEach((child, idx) => {
+          kids.push({
+            kind: "node",
+            node: child,
+            label: nodeLabel(child, idx),
+          });
+        });
+      } else if (Array.isArray(schemaNode.refs) && schemaNode.refs.length) {
+        schemaNode.refs.forEach((refStr, idx) => {
+          kids.push({
+            kind: "ref",
+            ref: refStr,
+            label: refStr,
+          });
+        });
+      } else if (schemaNode.ref) {
+        kids.push({
+          kind: "ref",
+          ref: schemaNode.ref,
+          label: schemaNode.ref,
+        });
+      }
+
+      return kids;
+    }
+
+    function renderBookGrid() {
+      const node = currentBookNode();
+      if (!node) {
+        navMode = "library";
+        renderLibraryGrid();
+        return;
+      }
+
+      const children = buildChildrenFromSchemaNode(node);
+
+      fadeSwapGrid((grid) => {
+        if (!children.length) {
+          const empty = document.createElement("div");
+          empty.className = "mm-empty";
+          empty.textContent = "No deeper structure in this book node. Ref details (if any) are on the right.";
+          grid.appendChild(empty);
+          return;
+        }
+
+        children.forEach(child => {
+          const card = document.createElement("div");
+          card.className = "mm-box mm-box-book";
+
+          if (child.kind === "node") {
+            card.innerHTML = `
+              <div class="mm-box-title">${child.label}</div>
+              <div class="mm-box-meta">Section</div>
+            `;
+            card.onclick = () => {
+              bookNodeStack.push(child.node);
+              selectedRef = null;
+              renderBreadcrumb();
+              renderBookGrid();
+              updateSelection();
+            };
+          } else {
+            const prettyLabel = child.label;
+            card.innerHTML = `
+              <div class="mm-box-title">${prettyLabel}</div>
+              <div class="mm-box-meta">${child.ref}</div>
+            `;
+            card.onclick = () => {
+              selectedRef = child.ref;
+              Array.from(grid.children).forEach(c => c.classList.remove("mm-box-selected"));
+              card.classList.add("mm-box-selected");
+              updateSelection();
+              loadRefInfo(child.ref);
+            };
+          }
+
+          grid.appendChild(card);
+        });
+      });
+    }
+
+    // ---------------- combined grid router ----------------
+
+    function renderGrid() {
+      if (navMode === "book") {
+        renderBookGrid();
+      } else {
+        renderLibraryGrid();
+      }
+    }
+
+    // ---------------- selection + use button ----------------
+
+    function updateSelection() {
+      const info = document.getElementById("selectionInfo");
+      const btn = document.getElementById("useSelectionBtn");
+
+      if (selectedRef) {
+        info.textContent = `Selected ref: ${selectedRef}`;
+        btn.disabled = false;
+      } else {
+        if (navMode === "book" && currentBookTitle) {
+          info.textContent = `Inside: ${currentBookTitle}. Click a lowest-level box to select a ref.`;
+        } else {
+          const node = currentLibraryNode();
+          const pathStr = node.path ? buildPathString(node.path) : "";
+          info.textContent = pathStr
+            ? `Viewing: ${pathStr}. Click a book to go inside.`
+            : "Browse the boxes to choose a text.";
+        }
+        btn.disabled = true;
+      }
+    }
+
+    // ---------------- ref info panel ----------------
+
+    async function loadRefInfo(ref) {
+      const panel = document.getElementById("refPanel");
+      panel.innerHTML = `<p class="mm-selection-info">Loading details for <strong>${ref}</strong>...</p>`;
+
+      const res = await fetch("/library/ref-info?ref=" + encodeURIComponent(ref));
+      if (!res.ok) {
+        panel.innerHTML = `<p class="mm-selection-info">Failed to load ref info (${res.status}).</p>`;
+        return;
+      }
+      const data = await res.json();
+
+      const texts = data.texts || {};
+      const links = data.links || [];
+      const topics = data.topics || [];
+      const related = data.related || {};
+
+      // helper: convert array → HTML paragraphs
+      const normalizeText = (val) => {
+        if (!val) return "";
+        if (Array.isArray(val)) {
+          return val
+            .filter(x => x && String(x).trim().length)
+            .map(x => `<p>${x}</p>`)
+            .join("");
+        }
+        return String(val);
+      };
+
+      const heText = normalizeText(texts.he);
+      const enText = normalizeText(texts.en || texts.text);
+
+      const hasAnyText = !!heText || !!enText;
+
+      panel.innerHTML = `
+        <h3>${data.ref}</h3>
+        <div class="mm-ref-text-block">
+          <div class="mm-ref-section-title">HEBREW</div>
+          <div>${heText || "<span class='mm-selection-info'>No Hebrew text for this ref.</span>"}</div>
+        </div>
+        <div class="mm-ref-text-block">
+          <div class="mm-ref-section-title">ENGLISH</div>
+          <div>${enText || "<span class='mm-selection-info'>No English text for this ref.</span>"}</div>
+        </div>
+      `;
+
+      if (!hasAnyText && links.length) {
+        const hint = document.createElement("div");
+        hint.className = "mm-ref-text-block";
+        hint.innerHTML = `
+          <div class="mm-ref-section-title">NOTE</div>
+          <div class="mm-selection-info">
+            This looks like a book-level or commentary ref. Sefaria doesn’t expose a single block of text here.
+            Use the clickable links below to jump into specific Zohar passages that this work discusses.
+          </div>
+        `;
+        panel.appendChild(hint);
+      }
+      // commentaries / links
+      if (Array.isArray(links) && links.length) {
+        const linksDiv = document.createElement("div");
+        linksDiv.className = "mm-ref-text-block";
+        const label = document.createElement("div");
+        label.className = "mm-ref-section-title";
+        label.textContent = "COMMENTARIES & LINKS";
+        linksDiv.appendChild(label);
+
+        const list = document.createElement("ul");
+        list.style.paddingLeft = "18px";
+        list.style.margin = "0";
+
+        links.slice(0, 50).forEach(l => {
+          const li = document.createElement("li");
+
+          // best guess at the target ref
+          const targetRef = l.ref || l.textReference || l.sourceRef || "";
+          const display = l.textReference || targetRef || "[unknown]";
+
+          const btn = document.createElement("button");
+          btn.type = "button";
+          btn.style.border = "none";
+          btn.style.background = "none";
+          btn.style.padding = "0";
+          btn.style.margin = "0";
+          btn.style.cursor = targetRef ? "pointer" : "default";
+          btn.style.color = targetRef ? "#2563eb" : "inherit";
+          btn.style.textAlign = "left";
+          btn.style.fontSize = "12px";
+
+          btn.textContent = display;
+
+          if (targetRef) {
+            btn.onclick = () => {
+              // jump into that ref using the same panel
+              selectedRef = targetRef;
+              updateSelection();
+              loadRefInfo(targetRef);
+            };
+          }
+
+          li.appendChild(btn);
+          list.appendChild(li);
+        });
+
+        linksDiv.appendChild(list);
+        panel.appendChild(linksDiv);
+      }
+    }
+
+    // ---------------- bootstrap ----------------
+
+    async function init() {
+      const res = await fetch("/library/tree");
+      libraryTree = await res.json();
+      pathNodes = [];
+      navMode = "library";
+      currentBookTitle = null;
+      bookStruct = null;
+      bookNodeStack = [];
+      selectedRef = null;
+
+      renderBreadcrumb();
+      updateBackButton();
+      renderGrid();
+      updateSelection();
+
+      document.getElementById("backBtn").addEventListener("click", () => {
+        if (navMode === "book") {
+          if (bookNodeStack.length > 1) {
+            bookNodeStack.pop();
+            selectedRef = null;
+            renderBreadcrumb();
+            renderBookGrid();
+            updateSelection();
+          } else {
+            pathNodes.pop();
+            exitBookMode();
+            renderBreadcrumb();
+            renderGrid();
+            updateSelection();
+          }
+        } else {
+          if (!pathNodes.length) return;
+          pathNodes.pop();
+          renderBreadcrumb();
+          renderGrid();
+          updateSelection();
+        }
+      });
+
+      document.getElementById("useSelectionBtn").addEventListener("click", () => {
+        if (!selectedRef) return;
+        // TODO: hook into MarehMakom (save ref, add to sheet, etc.)
+        alert("Use this ref in Mareh Makom:\n\n" + selectedRef);
+      });
+    }
+
+    document.addEventListener("DOMContentLoaded", init);
+  </script>
+</body>
+</html>
